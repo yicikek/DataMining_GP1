@@ -1,0 +1,1001 @@
+Gender,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Credit_History,Property_Area,Loan_Status,Application_Note
+Male,Graduate,No,1969,0.0,247.0,0.0,Rural,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,1544,0.0,268.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,388,345.68207931,121.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,Yes,150,145.88032624,216.0,1.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Female,Graduate,Yes,1691,32.04709092,103.0,1.0,Rural,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,3450,7.13614484,174.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1271,0.0,249.0,1.0,Semiurban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,150,0.0,264.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Graduate,No,3217,0.0,154.0,0.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,5081,0.0,217.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,269,0.0,185.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,5387,0.0,169.0,1.0,Urban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,Yes,876,891.26237982,255.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Not Graduate,No,1540,0.0,183.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,Yes,7695,0.0,226.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,Yes,1186,0.0,289.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,150,1724.554712,218.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,4141,2227.92608992,196.0,0.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Graduate,No,150,17.07987468,245.0,0.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,4301,0.0,99.0,1.0,Semiurban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,3356,33.00044494,88.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,4382,139.77047015,170.0,1.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,No,1474,0.0,127.0,1.0,Rural,N,I need to renovate my house immediately. Facing some financial stress currently.
+Female,Not Graduate,No,150,2942.13035646,176.0,0.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Female,Not Graduate,No,2276,232.43909696,68.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,2465,0.0,165.0,1.0,Urban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,2050,0.0,60.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,3392,994.53413026,83.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,3796,0.0,204.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,3002,3003.06046846,286.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,226,0.0,152.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Not Graduate,No,9725,0.0,265.0,1.0,Urban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Female,Not Graduate,No,150,0.0,193.0,1.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Graduate,Yes,2658,0.0,205.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,3522,0.0,97.0,0.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,5172,0.0,600.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,257,0.0,319.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,1037,0.0,253.0,1.0,Semiurban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Graduate,No,16003,192.99907475,146.0,0.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,1545,455.53227991,228.0,1.0,Rural,N,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,1574,0.0,290.0,0.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,Yes,150,0.0,185.0,0.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,513,0.0,221.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,150,0.0,258.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,4009,0.0,253.0,1.0,Rural,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Female,Not Graduate,No,937,1462.410968,146.0,0.0,Urban,N,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,No,3673,2100.21087699,215.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,Yes,3579,0.0,199.0,1.0,Rural,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,4567,0.0,322.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,6379,0.0,248.0,1.0,Urban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,2565,0.0,169.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,358,1315.96354522,369.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Graduate,Yes,150,0.0,237.0,1.0,Urban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,Yes,1945,3228.11761241,243.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,Yes,3263,430.78164246,304.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,3696,0.0,194.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,184,0.0,243.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,747,0.0,83.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,2988,0.0,226.0,1.0,Semiurban,N,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Graduate,No,1449,0.0,107.0,1.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,0.0,281.0,0.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,475,0.0,241.0,1.0,Semiurban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,7053,0.0,82.0,1.0,Semiurban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,4845,1453.33152103,91.0,0.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,3583,0.0,101.0,0.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,Yes,150,4738.53661387,212.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Graduate,No,150,614.07254442,195.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1421,0.0,244.0,0.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,150,152.127835,265.0,0.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,Yes,150,0.0,141.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,1702,0.0,192.0,1.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,1123,340.91522522,79.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,6548,0.0,229.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Not Graduate,No,1299,0.0,131.0,1.0,Urban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,Yes,1607,174.7107864,368.0,1.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Female,Graduate,No,11949,0.0,227.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,1083,2197.28911369,250.0,1.0,Rural,N,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,2006,0.0,109.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,1622,0.0,236.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Not Graduate,No,3890,247.76893489,234.0,1.0,Rural,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,6902,0.0,220.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Not Graduate,No,3884,0.27747384,228.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,1200,0.0,108.0,1.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,5026,69.28204095,174.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Graduate,No,1102,0.0,83.0,0.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,7389,296.590141,208.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,150,262.54257974,171.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Graduate,No,925,0.0,377.0,0.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,1072,0.0,381.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,539,0.0,65.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Graduate,Yes,584,0.0,228.0,1.0,Urban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,1499,1064.4608591,218.0,0.0,Urban,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,4792,0.0,177.0,1.0,Semiurban,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Not Graduate,No,2988,0.0,231.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,1577,0.0,254.0,0.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,12748,0.0,256.0,1.0,Semiurban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,2038,0.0,132.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,1374,0.0,221.0,0.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,4729,0.0,172.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,3311,0.0,152.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,Yes,550,0.0,395.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,2532,111.14694087,361.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,Yes,150,0.0,144.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,150,5015.09763914,168.0,1.0,Semiurban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,No,150,670.14646926,238.0,1.0,Rural,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,2972,116.59678228,158.0,0.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,235.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,2310,0.0,145.0,0.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,7262,0.0,191.0,0.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,5764,0.0,219.0,1.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,150,10012.85090373,197.0,1.0,Urban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Not Graduate,No,1868,2210.71418993,426.0,1.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,No,13762,18.08147347,219.0,1.0,Rural,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,Yes,11306,3522.76676884,120.0,1.0,Rural,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,1927,2161.53036361,78.0,0.0,Urban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,Yes,150,930.48645605,214.0,0.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Female,Not Graduate,No,150,0.0,266.0,0.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,2163,0.0,80.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Female,Graduate,No,6288,296.40894627,147.0,1.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,9093,0.0,183.0,1.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,1928,946.28174073,233.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,16176,2958.12232921,224.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,No,1395,49.51024184,79.0,1.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,0.0,439.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,5646,0.0,35.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,Yes,150,0.0,171.0,1.0,Semiurban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,3362,0.0,331.0,1.0,Semiurban,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Female,Graduate,Yes,150,0.0,251.0,0.0,Semiurban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,318,0.0,181.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,No,794,0.0,176.0,0.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,4012,0.0,51.0,1.0,Rural,N,I need to renovate my house immediately. Facing some financial stress currently.
+Female,Not Graduate,Yes,5118,2017.01910025,249.0,1.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,1150,0.0,413.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,150,0.0,93.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,1831,0.0,167.0,0.0,Urban,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,182,0.0,249.0,1.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,830,2913.79355123,240.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,97.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Female,Not Graduate,No,1123,0.0,221.0,1.0,Rural,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Not Graduate,No,4850,131.60754853,149.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,17790,126.80392112,234.0,1.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Female,Graduate,No,12625,82.3644045,202.0,1.0,Rural,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,0.0,204.0,1.0,Rural,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Female,Not Graduate,No,900,0.0,345.0,1.0,Semiurban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,No,5685,40.98283213,250.0,1.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Graduate,No,150,0.0,271.0,1.0,Semiurban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,5276,0.0,196.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,Yes,483,0.0,259.0,1.0,Semiurban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Graduate,Yes,5542,232.77328222,185.0,0.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,150,0.0,171.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,Yes,9652,2119.29836342,67.0,0.0,Rural,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,Yes,5418,0.0,207.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,636,0.0,241.0,1.0,Rural,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,971,397.77958959,41.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,6857,0.0,196.0,1.0,Urban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,2753,0.0,242.0,0.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,2016,1666.23874602,172.0,1.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,597,670.97952438,238.0,1.0,Rural,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,1755,1191.63764464,108.0,1.0,Rural,N,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,Yes,4433,788.27421718,124.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,No,150,0.0,165.0,0.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,Yes,150,0.0,239.0,0.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,10544,0.0,147.0,1.0,Urban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,3303,0.0,125.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Not Graduate,No,4592,0.0,164.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,243.0,1.0,Urban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,7869,0.0,271.0,1.0,Semiurban,N,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,3213,88.35380502,111.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,150,400.48448481,271.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,150,0.0,265.0,1.0,Rural,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,204,223.90600342,275.0,1.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,3751,68.54820175,412.0,1.0,Rural,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,918,0.0,166.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Graduate,No,3322,854.89110113,416.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,957,88.32402243,91.0,0.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,150,0.0,231.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,2054,0.0,394.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,638,0.0,253.0,0.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,440,1254.40575492,172.0,1.0,Rural,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,No,4490,0.0,283.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,150,0.0,179.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,1046,3288.25595409,206.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,2165,0.0,353.0,1.0,Rural,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,4305,4351.6143292,83.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,150,482.01945559,9.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,1270,0.0,120.0,0.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Not Graduate,No,756,0.0,197.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,No,150,0.0,178.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,Yes,985,0.0,258.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,513,0.0,9.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,1185,0.0,144.0,1.0,Rural,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,2585,0.0,169.0,1.0,Semiurban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,2436,0.0,176.0,1.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,150,0.0,218.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,2172,0.0,245.0,1.0,Semiurban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Not Graduate,No,3565,0.0,227.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,5699,0.0,108.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,Yes,8031,0.0,173.0,0.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,309.10613734,214.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,6581,0.0,259.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,Yes,1053,0.0,179.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,561,0.0,189.0,0.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Not Graduate,Yes,4496,0.0,127.0,1.0,Urban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,Yes,8644,0.0,288.0,1.0,Urban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Not Graduate,No,150,0.0,192.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Female,Graduate,Yes,2706,1975.29607343,159.0,0.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,2465,0.0,191.0,1.0,Rural,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,928,82.98851297,161.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,4304,0.0,59.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,4120,0.0,62.0,1.0,Rural,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,2830,0.0,154.0,1.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Male,Not Graduate,No,5055,0.0,157.0,1.0,Semiurban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Not Graduate,Yes,150,0.0,267.0,1.0,Urban,N,Buying a new car for daily commute. Business is booming right now.
+Female,Graduate,No,601,0.0,179.0,0.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,8844,188.23472432,231.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,2527,1211.20201727,259.0,1.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,3561,0.0,36.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,150,0.0,266.0,1.0,Rural,N,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,No,8700,0.0,168.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,No,1249,355.13818499,341.0,1.0,Rural,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,No,1355,98.29998148,399.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,4212,0.0,211.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,1498,167.65058832,199.0,1.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Not Graduate,No,3556,0.0,198.0,1.0,Rural,N,I need to renovate my house immediately. Business is booming right now.
+Female,Graduate,No,12678,199.81984147,214.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,1858.90774897,159.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,4537,0.0,237.0,0.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,150,2467.33431878,121.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,150,2843.80293394,251.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,3804,0.0,162.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,Yes,6121,4356.0719287,231.0,0.0,Semiurban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,150,0.0,180.0,0.0,Urban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,4550,0.0,9.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Female,Graduate,No,417,0.0,238.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,No,150,0.0,204.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,868,0.0,178.0,0.0,Rural,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,5650,0.0,171.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,1459,329.74564592,172.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Female,Graduate,No,150,127.51922402,125.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,1448,0.0,95.0,1.0,Urban,N,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Not Graduate,No,5313,49.01588117,123.0,0.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,793,323.15133192,122.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,1558,604.851155,131.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,3828.23527729,281.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,1516,313.67187432,383.0,1.0,Rural,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,2495,505.08936636,141.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,3524,0.0,208.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,1158,0.0,199.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,No,170,0.0,293.0,1.0,Semiurban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,3354,0.0,143.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,11493,297.95999664,213.0,0.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,1081,0.0,197.0,1.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,1026,0.0,348.0,1.0,Urban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Not Graduate,No,1722,0.0,526.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,No,6712,0.0,182.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,Yes,2086,0.0,118.0,1.0,Urban,N,Consolidating high-interest debts. I am very confident in repayment.
+Female,Not Graduate,No,3110,489.8512394,163.0,1.0,Semiurban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,Yes,8315,443.27690423,460.0,1.0,Urban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Graduate,Yes,150,1584.83864997,198.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,3825,1871.13195011,9.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,4556,0.0,204.0,1.0,Semiurban,N,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,No,200,0.0,246.0,1.0,Urban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,353,120.48583346,245.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,2520.87027631,333.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Not Graduate,Yes,809,0.0,264.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,Yes,16220,0.0,239.0,0.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,217,0.0,102.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,2222,0.0,69.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,No,150,0.0,9.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Graduate,No,2236,0.0,226.0,0.0,Urban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,4454,363.17563068,101.0,0.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,578,529.77769635,173.0,1.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,610,0.0,92.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,Yes,2725,0.0,205.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,2325,178.67473378,177.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,259.0,1.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,Yes,341,0.0,237.0,1.0,Semiurban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,2845,0.0,177.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,Yes,3266,0.0,65.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,6407,0.0,92.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Not Graduate,Yes,13238,0.0,409.0,0.0,Rural,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,150,900.85462689,147.0,1.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,1342,0.0,184.0,1.0,Urban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,3494,0.0,371.0,0.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,150,0.0,196.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,Yes,274,0.0,163.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,1818,2844.45780921,137.0,0.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,150,2.18252899,232.0,1.0,Semiurban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,3539,0.0,261.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,1515,0.0,9.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,1528,0.0,208.0,1.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,2122,270.17895029,194.0,0.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,586,0.0,447.0,1.0,Urban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,Yes,1245,0.0,391.0,0.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,Yes,2272,278.74091931,179.0,1.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,954,0.0,331.0,1.0,Semiurban,N,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,No,4719,0.0,146.0,1.0,Semiurban,N,Planning to expand my small business operations. Facing some financial stress currently.
+Female,Graduate,No,1065,0.0,284.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,150,117.32002974,255.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,6978,155.56118995,431.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,428,130.92443908,143.0,1.0,Semiurban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,150,31.99273088,136.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,0.0,270.0,1.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,754,0.0,230.0,1.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,2402,0.0,224.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,No,1813,0.0,160.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,1562,0.0,87.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,Yes,1757,363.57080385,305.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,3080,0.0,181.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,3377,0.0,31.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,4361,3035.16224016,383.0,1.0,Urban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,Yes,952,0.0,240.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,3753,0.0,162.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,2811,0.0,134.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,5740,0.0,229.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,188,411.53794373,246.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,Yes,5076,0.0,65.0,1.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,546,384.10216006,27.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,4389,0.0,211.0,0.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,8240,0.0,167.0,1.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,1897,0.0,184.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,5180,0.0,131.0,0.0,Urban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,150,0.0,167.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,2372,0.0,296.0,0.0,Rural,N,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,Yes,1929,1372.95094023,134.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1491,1418.75077521,347.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,2156.6742663,170.0,0.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,Yes,919,1049.61871852,255.0,0.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,3175,0.0,9.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,3000,0.0,183.0,0.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Female,Graduate,No,4704,0.0,600.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,1050,525.990097,420.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,830,308.0687659,242.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Female,Not Graduate,Yes,150,0.0,196.0,0.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,151.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,2068,0.0,88.0,0.0,Semiurban,N,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,910,0.0,102.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,Yes,1117,1372.69086858,180.0,1.0,Urban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,178.0,0.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Female,Graduate,Yes,9229,0.0,65.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Not Graduate,Yes,2427,71.32471103,163.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,150,0.0,108.0,0.0,Urban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,150,0.0,269.0,0.0,Rural,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,0.0,173.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,961,306.31705603,90.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,4174,22.13172206,141.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,7651,209.47533323,97.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Female,Not Graduate,No,3174,0.0,151.0,1.0,Urban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,Yes,3146,0.0,250.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,2952,686.98561856,600.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,0.0,244.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,2042,0.0,202.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,150,0.0,242.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,Yes,1211,16.99571569,171.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,0.0,344.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,180.0,1.0,Semiurban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,7365,0.0,146.0,1.0,Rural,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,No,2066,378.84268129,49.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,No,150,0.0,216.0,0.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,No,307,0.0,233.0,0.0,Rural,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,212.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,1944,200.89505693,86.0,1.0,Semiurban,N,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,150,27.36931002,137.0,1.0,Urban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Not Graduate,No,3157,0.0,67.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,150,346.49913114,123.0,0.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,Yes,2822,355.45171813,152.0,1.0,Urban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,3190,0.0,115.0,1.0,Urban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,3851,0.0,106.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,150,2115.93826548,57.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Female,Graduate,No,1649,0.0,346.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,Yes,150,1402.76408478,196.0,1.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,2092,0.0,220.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,Yes,6073,0.0,229.0,1.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,2615,0.0,433.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,1595,0.0,202.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,516,0.0,137.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,1254,0.0,166.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,1685,0.0,239.0,1.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,3039,0.0,200.0,1.0,Semiurban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,No,1352,0.0,371.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Female,Graduate,No,1460,589.55848202,100.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,3239,0.0,128.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,0.0,207.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,1181,0.0,55.0,0.0,Semiurban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Graduate,Yes,8466,0.0,192.0,1.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,150,2108.81750936,37.0,1.0,Semiurban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,1316,229.63923229,179.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,Yes,1970,0.0,237.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,150,6153.4040602,203.0,0.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,Yes,2534,0.0,210.0,1.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Female,Not Graduate,No,8566,0.0,174.0,0.0,Rural,N,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,150,0.0,276.0,1.0,Semiurban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,1506,0.0,147.0,0.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,1866,0.0,9.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,1780,326.51666588,57.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1723,568.05440284,95.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,2537,717.49063713,139.0,1.0,Rural,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,1529,0.0,168.0,1.0,Semiurban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,5985,0.0,124.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,1670,0.0,272.0,1.0,Semiurban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,Yes,7592,0.0,170.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,No,150,0.0,70.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,3943,249.19020997,110.0,1.0,Rural,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,Yes,150,1386.59196412,262.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,715,0.0,318.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Not Graduate,No,150,0.0,179.0,1.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,Yes,150,493.54459274,50.0,0.0,Semiurban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,4159,36.10658513,215.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Graduate,No,3320,0.0,144.0,1.0,Semiurban,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,1541,0.0,147.0,1.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Female,Not Graduate,Yes,1113,0.0,426.0,1.0,Urban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,181.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,1506,67.04951025,258.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,7134,0.0,283.0,1.0,Rural,N,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,150,0.0,417.0,1.0,Rural,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,2247,0.0,163.0,1.0,Rural,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,4360,0.0,79.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,43.0,1.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,3964,343.35111641,57.0,1.0,Semiurban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,103.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,286,0.0,158.0,1.0,Rural,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,4892,0.0,351.0,1.0,Rural,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,150,0.0,182.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,1950,0.0,132.0,1.0,Semiurban,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,150,2982.9624292,85.0,1.0,Semiurban,N,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,150,127.09124404,119.0,1.0,Urban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,1131,545.48305644,318.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,150,187.84216202,270.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,743,0.0,256.0,1.0,Semiurban,N,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,2255,0.0,85.0,0.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,894,132.76934501,148.0,0.0,Urban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Graduate,No,270,0.0,176.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,150,352.92438537,210.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,Yes,1060,26.77827662,220.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,150,648.22468825,198.0,1.0,Semiurban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,0.0,170.0,1.0,Rural,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Graduate,Yes,492,4817.96752934,126.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,3672,0.0,160.0,0.0,Rural,N,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,150,0.0,94.0,1.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,467,0.0,198.0,1.0,Semiurban,N,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,Yes,254,343.31441924,124.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,2726,0.0,229.0,0.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,1563,0.0,268.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,2040,0.0,68.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,1470,0.0,235.0,1.0,Semiurban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,1885,0.0,230.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,3165,0.0,9.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,881,1846.9091994,206.0,0.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,2008,0.0,213.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Not Graduate,No,2965,1770.94590641,279.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,173,0.0,9.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,849,0.0,271.0,1.0,Rural,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,150,0.0,77.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Not Graduate,No,150,0.0,224.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,Yes,6718,0.0,118.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,741,0.0,233.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,2621,0.0,154.0,0.0,Semiurban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,4460,238.84719546,211.0,1.0,Semiurban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,150,10742.12919028,129.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,788,0.0,217.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Female,Not Graduate,No,2116,0.0,192.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,2570,0.0,200.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,196,583.80499877,139.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,1522,0.0,88.0,0.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,Yes,537,0.0,77.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,2484,0.0,187.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,1050,74.51956423,57.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,Yes,150,144.33163773,98.0,1.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,430,0.0,113.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,3865,0.0,200.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,150,0.0,45.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,Yes,5526,0.0,220.0,0.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,286,0.0,220.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,5340,363.44746014,133.0,0.0,Urban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,1256,0.0,56.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Not Graduate,Yes,1549,524.27825879,373.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,1169,0.0,165.0,1.0,Semiurban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,8618,0.0,210.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,2040,0.0,393.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,8007,0.0,132.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,Yes,150,206.12598041,359.0,1.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,4507,0.0,97.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,2009,50.01180817,177.0,1.0,Semiurban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,13386,361.83174053,283.0,0.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,11201,0.0,264.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,No,2489,0.0,162.0,1.0,Semiurban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,225.0,1.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,2993,0.0,160.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,Yes,2534,0.0,600.0,0.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,Yes,3382,1301.33423507,44.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,207.0,0.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,880,696.64736469,187.0,1.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,150,1686.3641948,148.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,Yes,3735,0.0,157.0,1.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Female,Graduate,Yes,2346,2269.00237866,191.0,1.0,Semiurban,N,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,150,0.0,239.0,1.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,150,754.91337956,293.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,150,390.92228599,356.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Female,Graduate,No,1613,1248.79325338,182.0,1.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,Yes,3678,0.0,226.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,No,2507,0.0,271.0,1.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,0.0,152.0,0.0,Rural,N,Buying a new car for daily commute. Business is booming right now.
+Female,Not Graduate,No,6129,1567.78958871,192.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,Yes,933,1706.65521805,230.0,1.0,Urban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,985,0.0,276.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,747,0.0,275.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,11050,0.0,206.0,0.0,Rural,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,150,374.6273216,299.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,4285,0.0,434.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Graduate,No,2335,2440.77156811,182.0,1.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,2626,0.0,123.0,0.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,2428,0.0,235.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,802,208.43311287,164.0,0.0,Semiurban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,910,0.0,280.0,1.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,150,768.88382397,196.0,0.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,156.18228066,268.0,1.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,5775,0.0,63.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,897,0.0,259.0,0.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,493,0.0,208.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,2260,0.0,167.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,6292,5142.54126931,9.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,150,3296.48955449,386.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,639,0.0,242.0,1.0,Semiurban,N,Planning to expand my small business operations. Facing some financial stress currently.
+Female,Graduate,No,150,0.0,332.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,150,0.0,242.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,24.28530588,154.0,1.0,Semiurban,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,735,0.0,138.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,3688,0.0,238.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,3139,0.0,154.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Not Graduate,No,150,31.18764261,121.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,199.0,0.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,14740,0.0,213.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,303,0.0,236.0,0.0,Semiurban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,2864,24.10831745,35.0,0.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,Yes,1052,0.0,234.0,0.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,2576,236.22279381,119.0,1.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,No,2286,0.0,195.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,1474,2009.49337551,385.0,1.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,0.0,203.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,415,0.0,244.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,3853,0.0,243.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,3401,0.0,213.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,Yes,150,3.90915795,218.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,Yes,8399,149.79244246,234.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,No,7660,0.0,239.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,6669,0.0,174.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,4573,0.0,176.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,2664,0.0,164.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,Yes,6451,0.0,189.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,2887,0.0,134.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,5586,0.0,132.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Female,Not Graduate,No,837,0.0,125.0,1.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,150,288.06751952,143.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Graduate,No,4061,8292.36870477,122.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,Yes,1406,1924.71366633,138.0,1.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,3955,0.0,188.0,1.0,Semiurban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,412,0.0,221.0,1.0,Urban,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,5250,0.0,141.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,4062,2765.36370706,9.0,1.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,3094,0.0,173.0,1.0,Urban,N,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,Yes,771,0.0,363.0,1.0,Rural,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,3232,0.0,407.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Graduate,Yes,1228,0.0,229.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,387,0.0,151.0,1.0,Rural,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,4987,0.0,202.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,4618,0.0,358.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,4745,0.0,214.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,270.0,0.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,1471,7.17609138,105.0,0.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,4338,0.0,227.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,No,3012,664.11443073,221.0,1.0,Urban,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,Yes,4239,0.0,225.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,Yes,2492,0.0,197.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,No,150,0.0,9.0,1.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,568,0.0,150.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,584,2880.95561588,101.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,Yes,643,428.76146653,236.0,1.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,5272,0.0,252.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,567,0.0,134.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Female,Graduate,No,150,8436.23705295,243.0,0.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Graduate,No,696,0.0,148.0,0.0,Rural,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,No,3377,0.0,215.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,Yes,5224,403.14014179,214.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,Yes,3761,167.15899084,179.0,1.0,Semiurban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,652,714.78879344,168.0,0.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,2896.30189136,244.0,1.0,Semiurban,N,Consolidating high-interest debts. Facing some financial stress currently.
+Female,Graduate,Yes,4375,0.0,400.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,2110,298.42607111,163.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Graduate,No,2338,0.0,249.0,0.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,2577,0.0,126.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,Yes,2680,278.54316538,81.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,Yes,299,0.0,296.0,0.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,2977,0.0,118.0,0.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,156,0.0,238.0,1.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,7527,0.0,225.0,1.0,Semiurban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,2156,0.0,132.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,4756.91012409,183.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,703,0.0,95.0,0.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,8572,714.14067748,159.0,1.0,Rural,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,621,1050.25455002,354.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,2964,0.0,469.0,1.0,Rural,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,Yes,150,0.0,84.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,No,1262,0.0,248.0,1.0,Semiurban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,150,0.0,205.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,150,1609.51429134,243.0,1.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Not Graduate,No,150,768.38545486,66.0,1.0,Urban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,No,4509,0.0,244.0,0.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,9579,0.0,600.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,1267,0.0,189.0,1.0,Rural,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,Yes,1022,0.0,56.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,502,1640.30700677,192.0,1.0,Urban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,569,0.0,222.0,1.0,Semiurban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,No,10396,133.31410697,108.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Not Graduate,No,1111,0.0,243.0,0.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,150,1729.3637979,231.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,4792,0.0,174.0,0.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,597,0.0,215.0,1.0,Rural,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,690,2962.81278537,181.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,164,85.19211588,82.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,450,232.18762026,283.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,Yes,150,0.0,250.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,164.0,1.0,Urban,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,4175,0.0,115.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,313,1961.60192689,259.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,1019,848.61321907,186.0,0.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,3772,120.0473503,160.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,150,0.0,196.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,596,0.0,412.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,Yes,150,0.0,135.0,0.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Female,Not Graduate,No,3309,0.0,191.0,1.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,1290,0.0,118.0,1.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,1931,1271.38333321,325.0,1.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Not Graduate,No,3387,0.0,177.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,6323,0.0,214.0,0.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,5531,0.0,176.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,150,0.0,223.0,1.0,Semiurban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,167.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,No,150,3202.02358351,225.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,942,0.0,174.0,1.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,450,0.0,200.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,203.0,1.0,Rural,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,Yes,5716,3590.50210932,225.0,1.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,Yes,8888,0.0,231.0,0.0,Semiurban,N,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,6561,3480.9041896,406.0,0.0,Semiurban,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,2981,0.0,131.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,1108,0.0,153.0,1.0,Rural,N,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,3148,0.0,145.0,1.0,Rural,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,2196,0.0,414.0,0.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,0.0,119.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,2362,0.0,213.0,1.0,Urban,N,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,658,0.0,227.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Female,Not Graduate,No,1245,1825.9100094,169.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,7129,6003.21893033,133.0,0.0,Urban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,Yes,4717,0.0,217.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,Yes,3031,0.0,269.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,No,8087,289.91847219,164.0,0.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,No,6572,244.71312637,259.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,154,1295.96206223,206.0,0.0,Urban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,845,2874.50178984,267.0,0.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,678,0.0,112.0,1.0,Semiurban,N,Planning to expand my small business operations. Facing some financial stress currently.
+Female,Graduate,No,2575,0.0,253.0,0.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,1165,1928.89475025,421.0,0.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,No,150,0.0,217.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,4220,0.0,184.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,150,86.28337141,169.0,1.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,Yes,282,99.58469086,185.0,1.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,Yes,150,0.0,258.0,1.0,Urban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,Yes,1484,1247.86066363,132.0,1.0,Urban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,413,0.0,221.0,1.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Graduate,No,894,0.0,181.0,0.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Female,Graduate,No,989,0.0,41.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,150,0.0,158.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,3379,6468.54233228,229.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,3251,0.0,158.0,1.0,Rural,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,0.0,221.0,1.0,Rural,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,369,0.0,324.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Female,Not Graduate,No,3392,0.0,262.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,1630,0.0,56.0,1.0,Semiurban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,Yes,2202,0.0,128.0,1.0,Rural,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,3213,0.0,194.0,1.0,Rural,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,1419,0.0,455.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,1230,0.0,79.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,150,106.58093559,143.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,9771,0.0,356.0,1.0,Urban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,Yes,1014,0.0,228.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,8005,0.0,271.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,821,0.0,208.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,6760,0.0,269.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,8289,8077.88833338,47.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,1677,0.0,101.0,1.0,Urban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,9768,0.0,360.0,1.0,Rural,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,No,1270,0.0,14.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,3269,0.0,465.0,1.0,Urban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,603,0.0,363.0,1.0,Rural,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,Yes,2958,0.0,151.0,1.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,8235,0.0,194.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,No,3177,133.33290277,224.0,1.0,Rural,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,3971,406.20071522,84.0,0.0,Rural,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,126.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,3172,0.0,59.0,1.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Female,Graduate,No,1427,0.0,250.0,1.0,Rural,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,150,0.0,126.0,1.0,Semiurban,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,211.0,1.0,Semiurban,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,150,0.0,155.0,0.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Female,Graduate,Yes,4559,180.38965811,160.0,1.0,Semiurban,N,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,150,37.98893482,225.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,9989,0.0,100.0,0.0,Rural,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,3231,0.0,111.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,1084,0.0,201.0,1.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,4310,0.0,68.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,6043,0.0,199.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,3759,0.0,333.0,1.0,Rural,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,Yes,313,0.0,226.0,1.0,Rural,N,Consolidating high-interest debts. Business is booming right now.
+Female,Not Graduate,No,2213,795.86906386,224.0,0.0,Semiurban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,356,0.0,217.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,No,979,610.7523617,49.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,Yes,1125,0.0,207.0,1.0,Urban,N,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,16274,0.0,9.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,Yes,150,0.0,213.0,1.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,10393,0.0,216.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,1110,0.0,148.0,0.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,Yes,2841,0.0,445.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,Yes,1250,0.0,240.0,0.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,Yes,3725,37.79611865,137.0,0.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,3629,0.0,131.0,0.0,Rural,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,Yes,150,0.0,99.0,1.0,Rural,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,4586,0.0,184.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,1189,321.26490264,221.0,0.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Not Graduate,No,150,21.26516503,104.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,150,5849.55644221,180.0,1.0,Rural,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,1858,0.0,160.0,1.0,Rural,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,3194,3995.57910831,182.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,No,401,3027.84891494,107.0,0.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,15308,0.0,244.0,0.0,Rural,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,2735,0.0,209.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,1373,0.0,129.0,1.0,Urban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,150,0.0,290.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,634,0.0,365.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,1043,2517.06151443,197.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,1643,284.01370893,159.0,1.0,Rural,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,1674,46.09714939,113.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,2951,956.48017466,192.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,4632,131.81073613,142.0,1.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,150,135.16455891,256.0,1.0,Rural,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Not Graduate,No,150,938.94367501,413.0,1.0,Semiurban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,6704,0.0,234.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,Yes,150,1251.39901782,161.0,1.0,Urban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,150,0.0,164.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,6862,0.0,260.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,2375,0.0,171.0,1.0,Urban,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,Yes,1039,0.0,234.0,1.0,Urban,N,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Not Graduate,No,7141,278.20358852,179.0,0.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,35.0,0.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,No,150,0.0,221.0,1.0,Urban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,772,0.0,139.0,1.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,754,0.0,178.0,0.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,0.0,104.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,3157,0.0,191.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,2828,0.0,89.0,0.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,150,2994.15577126,98.0,0.0,Urban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,1876,0.0,107.0,0.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,11455,221.10540201,181.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,Yes,791,249.71472598,278.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Female,Graduate,No,2627,1439.48718494,233.0,0.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,1463,0.0,178.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,998,0.0,176.0,1.0,Urban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,7824,0.0,348.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Graduate,No,150,31.59195534,286.0,0.0,Urban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,Yes,1082,5604.12035223,175.0,1.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,Yes,2478,0.0,182.0,1.0,Semiurban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,No,318,0.0,160.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Female,Graduate,No,414,0.0,343.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,13329,0.0,199.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,190.0,0.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,7595,624.14899102,63.0,0.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,2949,1462.7885128,202.0,1.0,Rural,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,549,2716.79630788,222.0,0.0,Semiurban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,176.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,0.0,197.0,1.0,Semiurban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,150,4240.56817896,182.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Graduate,Yes,6369,0.0,280.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,Yes,3432,427.01823247,71.0,0.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,8288,0.0,269.0,1.0,Urban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,459,0.0,298.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,8665,0.0,175.0,1.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Female,Graduate,No,2802,1159.39023002,232.0,0.0,Semiurban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,3455,0.0,355.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Not Graduate,No,3676,2924.32034767,254.0,1.0,Semiurban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,798,0.0,196.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,Yes,2608,0.0,176.0,0.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,1281,0.0,110.0,0.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,10178,39.8776374,121.0,1.0,Rural,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,150,1376.74636959,57.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1203,0.0,239.0,0.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,2228,4172.96177764,265.0,0.0,Semiurban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,Yes,7251,0.0,157.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,2681,1204.7130497,140.0,1.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,No,7400,1997.90276041,58.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,150,0.0,400.0,1.0,Rural,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,1282,0.0,161.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,840,0.0,205.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,150,2054.72827552,338.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,150,154.04402949,289.0,1.0,Rural,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Female,Not Graduate,No,780,0.0,185.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,Yes,150,0.0,600.0,1.0,Urban,N,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,Yes,2133,0.0,182.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,617,0.0,457.0,1.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Female,Not Graduate,Yes,2455,0.0,191.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,Yes,1060,2038.29377671,231.0,1.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,0.0,144.0,0.0,Semiurban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,240,0.0,251.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,No,12338,3369.73530203,227.0,1.0,Rural,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,6806,0.0,138.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Not Graduate,No,4968,0.0,386.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,1271,0.0,244.0,1.0,Urban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,1124,0.0,174.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,150,0.0,280.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,No,150,0.0,155.0,1.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,5638,0.0,164.0,1.0,Rural,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,756,0.0,61.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,589,180.22082671,395.0,1.0,Rural,N,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,4883,0.0,232.0,1.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,1603,178.16877382,244.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,150,0.0,233.0,1.0,Rural,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Graduate,No,150,260.13227189,75.0,1.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,1374,366.51190413,257.0,0.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,Yes,3494,75.74554742,193.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,4820,398.65565923,179.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Not Graduate,Yes,6184,0.0,74.0,1.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Not Graduate,No,937,0.0,245.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1457,91.90980663,131.0,1.0,Rural,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,1489,1289.91939298,153.0,0.0,Semiurban,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,No,1860,0.0,253.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,6145,3433.27621263,124.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,1076,854.47819867,160.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,144.0,0.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,3840,0.0,223.0,1.0,Urban,N,Consolidating high-interest debts. Facing some financial stress currently.
+Female,Graduate,No,570,0.0,121.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,4877,0.0,244.0,0.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,2589,127.26469299,600.0,1.0,Rural,N,I need to renovate my house immediately. Facing some financial stress currently.
+Female,Not Graduate,No,2839,78.62089558,274.0,1.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,3684,1210.18472533,193.0,0.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,Yes,4198,63.58154011,172.0,1.0,Urban,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Male,Graduate,Yes,2906,0.0,109.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,7736,0.0,108.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Female,Graduate,No,5162,1961.42743183,90.0,0.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,2699,0.0,189.0,1.0,Rural,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,150,0.0,241.0,1.0,Urban,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,1289,0.0,224.0,1.0,Semiurban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,No,4411,0.0,184.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,1080,0.0,51.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,2153,4840.4239267,243.0,0.0,Rural,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Female,Graduate,No,150,0.0,95.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,308,1306.2539704,258.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,6747,1735.21722089,44.0,1.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,425,475.32326582,169.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Female,Graduate,Yes,1985,0.0,338.0,1.0,Semiurban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,Yes,5004,64.01491672,172.0,1.0,Semiurban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,3380,93.21007535,141.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,4301,0.0,512.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,4131,0.0,195.0,0.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,150,189.1729266,232.0,0.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,5599,0.0,145.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Graduate,No,150,13.8435824,246.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,Yes,587,0.0,184.0,1.0,Urban,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,Yes,150,367.59334935,363.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,1043,47.65409864,162.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,150,0.0,221.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,1378,0.0,150.0,0.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,677,3628.59674879,149.0,0.0,Semiurban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Not Graduate,No,7033,0.0,105.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Female,Graduate,No,150,1130.46908698,203.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,4460,0.0,231.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,2040,716.35238307,178.0,1.0,Rural,Y,Buying a new car for daily commute. I might struggle slightly initially.
+Female,Graduate,No,150,102.6795615,158.0,1.0,Urban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,4372,136.89885566,57.0,1.0,Rural,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,2296,0.0,59.0,1.0,Semiurban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,0.0,210.0,1.0,Urban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,3977,1380.82426644,247.0,1.0,Semiurban,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,115.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,3206,0.0,180.0,1.0,Rural,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,150,0.0,196.0,1.0,Rural,N,I need to renovate my house immediately. Business is booming right now.
+Female,Graduate,No,3189,0.0,258.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,Yes,787,124.92117802,216.0,0.0,Semiurban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,130.0,1.0,Rural,N,I need to renovate my house immediately. Business is booming right now.
+Male,Not Graduate,No,2459,9910.54873292,166.0,1.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Female,Graduate,No,4280,0.0,185.0,0.0,Urban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,2027,0.0,600.0,0.0,Rural,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,977,0.0,369.0,1.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,2790,107.00361514,161.0,1.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,6952,1831.59050211,94.0,1.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,No,5583,140.5609074,195.0,0.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,150,0.0,182.0,0.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Not Graduate,No,1742,0.0,34.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,242,142.04258796,490.0,1.0,Urban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Not Graduate,No,150,0.0,116.0,0.0,Semiurban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,295,0.0,368.0,1.0,Semiurban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Not Graduate,No,2219,0.0,296.0,1.0,Rural,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,12981,0.0,187.0,0.0,Semiurban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,313,573.39750664,233.0,1.0,Urban,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,Yes,2394,0.0,120.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Graduate,No,1451,0.0,298.0,1.0,Rural,N,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,593,0.0,198.0,1.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Graduate,No,3175,364.89829041,96.0,1.0,Urban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,584,0.0,42.0,1.0,Semiurban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,Yes,800,0.0,241.0,1.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,3951,0.0,257.0,1.0,Semiurban,N,I need to renovate my house immediately. I might struggle slightly initially.
+Female,Not Graduate,Yes,3743,0.0,162.0,1.0,Urban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,No,1700,0.0,249.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Male,Not Graduate,Yes,1538,0.0,198.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,150,0.0,82.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,7857,0.0,9.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,224.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,15302,0.0,217.0,1.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,Yes,7373,0.0,118.0,1.0,Urban,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Not Graduate,No,979,0.0,221.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Not Graduate,No,5705,0.0,221.0,1.0,Rural,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Graduate,No,791,0.0,115.0,1.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Not Graduate,No,150,0.0,396.0,1.0,Semiurban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,189,0.0,171.0,1.0,Semiurban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,Yes,3703,140.29829137,173.0,1.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,3273,0.0,112.0,1.0,Rural,Y,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,3543,920.3818839,18.0,1.0,Semiurban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,9083,0.0,222.0,0.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Female,Graduate,Yes,262,2897.30448178,331.0,1.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,678,0.0,167.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,No,5148,39.01763188,173.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,150,1115.2954237,131.0,0.0,Urban,Y,Investment in a new startup opportunity. I might struggle slightly initially.
+Male,Not Graduate,No,12084,74.7537935,402.0,1.0,Semiurban,Y,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,Yes,150,61.72917849,40.0,1.0,Rural,Y,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,2967,0.0,250.0,1.0,Semiurban,Y,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,4174,1024.38204048,155.0,1.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,1292,1242.79029444,232.0,1.0,Semiurban,N,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,1551,0.0,177.0,1.0,Semiurban,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,3496,1075.37463004,133.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Not Graduate,Yes,1076,0.0,175.0,1.0,Urban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,Yes,1181,619.17626466,255.0,1.0,Semiurban,N,Consolidating high-interest debts. I am very confident in repayment.
+Male,Graduate,No,150,0.0,184.0,0.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Female,Graduate,Yes,9027,0.0,55.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,Yes,14777,1802.2108262,190.0,1.0,Semiurban,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,171.0,1.0,Semiurban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,867,0.0,166.0,1.0,Semiurban,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Graduate,No,629,0.0,107.0,0.0,Rural,Y,I need to renovate my house immediately. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,100.0,1.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Female,Not Graduate,No,385,85.0452424,147.0,1.0,Rural,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,3402,629.64324954,78.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Graduate,Yes,2029,0.0,81.0,1.0,Rural,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,338,0.0,171.0,1.0,Rural,N,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Female,Graduate,No,1889,3384.81900576,9.0,1.0,Rural,N,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,No,150,0.0,124.0,1.0,Rural,Y,Buying a new car for daily commute. Business is booming right now.
+Female,Graduate,No,150,152.9678448,164.0,1.0,Rural,N,Consolidating high-interest debts. I am very confident in repayment.
+Female,Graduate,Yes,547,0.0,210.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,No,463,0.0,247.0,1.0,Semiurban,Y,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,4600,313.02269865,169.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,1651,6600.66884325,197.0,1.0,Rural,Y,Planning to expand my small business operations. I am very confident in repayment.
+Male,Graduate,No,980,0.0,212.0,1.0,Urban,N,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,Yes,184,0.0,174.0,1.0,Urban,N,Consolidating high-interest debts. Business is booming right now.
+Male,Graduate,No,2537,274.93630267,63.0,1.0,Semiurban,N,Investment in a new startup opportunity. Business is booming right now.
+Male,Graduate,No,1006,0.0,263.0,0.0,Urban,N,I need to renovate my house immediately. I am very confident in repayment.
+Male,Not Graduate,Yes,150,159.63563935,226.0,0.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,192.0,1.0,Rural,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Female,Graduate,No,2997,0.0,362.0,1.0,Rural,N,Buying a new car for daily commute. Facing some financial stress currently.
+Male,Not Graduate,No,11714,739.12241603,87.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Not Graduate,No,3260,0.0,103.0,1.0,Rural,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Graduate,No,928,0.0,87.0,1.0,Urban,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Female,Graduate,No,6762,341.08143576,376.0,0.0,Rural,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Male,Graduate,Yes,1265,0.0,176.0,1.0,Urban,Y,Planning to expand my small business operations. I might struggle slightly initially.
+Male,Graduate,No,946,0.0,381.0,0.0,Urban,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,150,0.0,75.0,1.0,Urban,Y,Consolidating high-interest debts. I might struggle slightly initially.
+Female,Graduate,No,14544,0.0,101.0,1.0,Urban,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,7598,0.0,9.0,1.0,Semiurban,Y,Buying a new car for daily commute. Business is booming right now.
+Male,Graduate,No,730,505.52720495,122.0,0.0,Semiurban,N,Buying a new car for daily commute. Business is booming right now.
+Male,Not Graduate,No,150,0.0,130.0,1.0,Rural,Y,Planning to expand my small business operations. Business is booming right now.
+Male,Graduate,No,3457,0.0,247.0,1.0,Urban,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,1907,5773.56694616,101.0,1.0,Rural,Y,Investment in a new startup opportunity. Business is booming right now.
+Female,Graduate,No,1331,0.0,191.0,0.0,Semiurban,N,Investment in a new startup opportunity. Facing some financial stress currently.
+Male,Not Graduate,Yes,1253,0.0,173.0,1.0,Rural,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.
+Male,Graduate,No,150,0.0,225.0,1.0,Urban,N,Urgent medical expenses covered by loan. Business is booming right now.
+Female,Not Graduate,No,2209,0.0,230.0,1.0,Urban,Y,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,No,2840,179.69156332,136.0,1.0,Rural,N,I need to renovate my house immediately. I might struggle slightly initially.
+Male,Graduate,No,2829,0.0,154.0,0.0,Rural,N,Planning to expand my small business operations. I am very confident in repayment.
+Male,Not Graduate,No,3446,0.0,115.0,1.0,Urban,Y,Planning to expand my small business operations. I am very confident in repayment.
+Female,Not Graduate,No,150,0.0,215.0,1.0,Semiurban,N,Investment in a new startup opportunity. I am very confident in repayment.
+Male,Not Graduate,No,2079,201.84028168,160.0,1.0,Semiurban,N,Urgent medical expenses covered by loan. I am very confident in repayment.
+Female,Graduate,No,3242,0.0,130.0,0.0,Rural,Y,Buying a new car for daily commute. I am very confident in repayment.
+Male,Not Graduate,No,150,0.0,444.0,1.0,Semiurban,Y,I need to renovate my house immediately. Business is booming right now.
+Male,Graduate,No,150,368.50848456,184.0,1.0,Rural,N,Consolidating high-interest debts. Facing some financial stress currently.
+Male,Graduate,Yes,4198,0.0,278.0,0.0,Rural,Y,Urgent medical expenses covered by loan. I am very confident in repayment.
+Male,Graduate,No,150,4021.87498851,221.0,0.0,Semiurban,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,1596,0.0,170.0,1.0,Urban,Y,I need to renovate my house immediately. I am very confident in repayment.
+Male,Graduate,No,5538,0.0,149.0,0.0,Rural,N,Investment in a new startup opportunity. I might struggle slightly initially.
+Female,Not Graduate,No,8756,0.0,99.0,0.0,Urban,N,Buying a new car for daily commute. I am very confident in repayment.
+Male,Graduate,No,1192,0.0,9.0,1.0,Urban,Y,Investment in a new startup opportunity. I am very confident in repayment.
+Female,Not Graduate,Yes,3383,2463.24774938,178.0,1.0,Semiurban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,150,3678.67065477,148.0,1.0,Urban,Y,I need to renovate my house immediately. Business is booming right now.
+Female,Graduate,No,150,0.0,66.0,1.0,Semiurban,Y,Investment in a new startup opportunity. Business is booming right now.
+Male,Not Graduate,No,3708,0.0,120.0,1.0,Rural,N,Urgent medical expenses covered by loan. I might struggle slightly initially.
+Male,Graduate,No,1354,0.0,234.0,1.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,2533,0.0,158.0,0.0,Urban,Y,Planning to expand my small business operations. Facing some financial stress currently.
+Male,Graduate,No,262,0.0,97.0,1.0,Urban,Y,Buying a new car for daily commute. Business is booming right now.

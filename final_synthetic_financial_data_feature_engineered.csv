@@ -1,0 +1,1001 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Status,Application_Note,TotalIncome,LoanIncomeRatio,HasCreditHistory,Note_Length,Risk_Keyword_Flag,Gender_Male,Education_Not Graduate,Employment_Type_Self_Employed,Property_Area_Semiurban,Property_Area_Urban,IncomeLevel_Medium,IncomeLevel_High,IncomeLevel_Very High
+1969,0.0,247.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,1969.0,0.1253807106598984,0,80,1,True,False,False,False,False,False,False,False
+1544,0.0,268.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1544.0,0.173462783171521,1,71,1,True,True,False,True,False,False,False,False
+388,345.68207931,121.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,733.6820793100001,0.1646970892683825,1,72,1,True,False,False,True,False,False,False,False
+150,145.88032624,216.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,295.88032624,0.7275658940949297,1,80,0,True,True,True,True,False,False,False,False
+1691,32.04709092,103.0,N,Planning to expand my small business operations. Facing some financial stress currently.,1723.04709092,0.0597431477031386,1,88,0,False,False,True,False,False,False,False,False
+3450,7.13614484,174.0,Y,Planning to expand my small business operations. I am very confident in repayment.,3457.13614484,0.0503161219547793,1,82,0,True,False,False,False,False,True,False,False
+1271,0.0,249.0,N,Buying a new car for daily commute. I am very confident in repayment.,1271.0,0.1957547169811321,1,69,0,True,False,False,True,False,False,False,False
+150,0.0,264.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.7483443708609272,1,74,0,True,False,False,True,False,False,False,False
+3217,0.0,154.0,Y,I need to renovate my house immediately. I am very confident in repayment.,3217.0,0.0478558110627719,0,74,0,False,False,False,False,False,True,False,False
+5081,0.0,217.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,5081.0,0.0426997245179063,1,77,1,True,False,False,True,False,False,True,False
+269,0.0,185.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,269.0,0.6851851851851852,1,71,1,True,False,False,False,False,False,False,False
+5387,0.0,169.0,N,Planning to expand my small business operations. I might struggle slightly initially.,5387.0,0.031365998515219,1,85,1,True,False,False,False,True,False,True,False
+876,891.26237982,255.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1767.26237982,0.1442093678574769,1,74,0,True,False,True,False,False,False,False,False
+1540,0.0,183.0,Y,Planning to expand my small business operations. Business is booming right now.,1540.0,0.1187540558079169,1,79,0,False,True,False,False,True,False,False,False
+7695,0.0,226.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,7695.0,0.0293659043659043,1,71,1,False,False,True,False,True,False,True,False
+1186,0.0,289.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1186.0,0.2434709351305813,1,82,0,True,False,True,False,True,False,False,False
+150,1724.554712,218.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1874.554712,0.1162322797651343,1,74,1,True,False,False,False,False,False,False,False
+4141,2227.92608992,196.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,6368.92608992,0.0307695877837825,0,71,1,False,False,False,False,False,False,True,False
+150,17.07987468,245.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,167.07987468,1.457640306232051,0,77,1,False,False,False,False,True,False,False,False
+4301,0.0,99.0,Y,I need to renovate my house immediately. Business is booming right now.,4301.0,0.0230125523012552,1,71,0,True,False,False,True,False,True,False,False
+3356,33.00044494,88.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,3389.00044494,0.0259586986577984,1,74,1,True,False,False,True,False,True,False,False
+4382,139.77047015,170.0,N,Buying a new car for daily commute. I am very confident in repayment.,4521.77047015,0.0375875806924072,1,69,0,False,False,False,False,True,True,False,False
+1474,0.0,127.0,N,I need to renovate my house immediately. Facing some financial stress currently.,1474.0,0.0861016949152542,1,80,0,False,False,False,False,False,False,False,False
+150,2942.13035646,176.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,3092.13035646,0.0569002853799627,0,80,0,False,True,False,True,False,True,False,False
+2276,232.43909696,68.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,2508.43909696,0.0270976889147766,1,77,1,False,True,False,False,True,True,False,False
+2465,0.0,165.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,2465.0,0.0669099756690997,1,77,1,True,True,False,False,True,True,False,False
+2050,0.0,60.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,2050.0,0.0292540224280838,1,80,1,True,False,False,False,False,True,False,False
+3392,994.53413026,83.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,4386.53413026,0.0189172317606749,1,80,0,True,False,False,False,False,True,False,False
+3796,0.0,204.0,Y,Planning to expand my small business operations. I am very confident in repayment.,3796.0,0.0537266262839083,1,82,0,True,True,False,True,False,True,False,False
+3002,3003.06046846,286.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,6005.06046846,0.0476185681948907,1,77,1,True,False,False,False,False,False,True,False
+226,0.0,152.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,226.0,0.6696035242290749,1,71,1,True,False,False,True,False,False,False,False
+9725,0.0,265.0,N,I need to renovate my house immediately. Facing some financial stress currently.,9725.0,0.0272465556241003,1,80,0,False,True,False,False,True,False,True,False
+150,0.0,193.0,N,Buying a new car for daily commute. Facing some financial stress currently.,150.0,1.2781456953642385,1,75,0,False,True,False,True,False,False,False,False
+2658,0.0,205.0,Y,Buying a new car for daily commute. Business is booming right now.,2658.0,0.0770966528770214,1,66,0,False,False,True,False,False,True,False,False
+3522,0.0,97.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,3522.0,0.0275333522565994,0,74,1,True,True,False,False,False,True,False,False
+5172,0.0,600.0,Y,I need to renovate my house immediately. Business is booming right now.,5172.0,0.11598685482312,1,71,0,True,False,False,False,False,False,True,False
+257,0.0,319.0,Y,Buying a new car for daily commute. I am very confident in repayment.,257.0,1.2364341085271318,1,69,0,True,True,False,False,False,False,False,False
+1037,0.0,253.0,N,Planning to expand my small business operations. I might struggle slightly initially.,1037.0,0.2437379576107899,1,85,1,True,True,False,True,False,False,False,False
+16003,192.99907475,146.0,Y,Planning to expand my small business operations. I am very confident in repayment.,16195.99907475,0.009014015455962,0,82,0,False,False,False,False,True,False,False,True
+1545,455.53227991,228.0,N,Buying a new car for daily commute. Business is booming right now.,2000.53227991,0.1139127269085323,1,66,0,True,True,False,False,False,True,False,False
+1574,0.0,290.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1574.0,0.1841269841269841,0,71,1,True,True,False,True,False,False,False,False
+150,0.0,185.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,1.225165562913907,0,66,0,True,True,True,False,False,False,False,False
+513,0.0,221.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,513.0,0.4299610894941634,1,71,1,True,False,False,False,True,False,False,False
+150,0.0,258.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,150.0,1.7086092715231789,1,71,1,True,True,False,False,True,False,False,False
+4009,0.0,253.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,4009.0,0.0630922693266833,1,77,1,True,False,False,False,False,True,False,False
+937,1462.410968,146.0,N,Buying a new car for daily commute. I might struggle slightly initially.,2399.410968,0.0608229182195604,0,72,1,False,True,False,False,True,True,False,False
+3673,2100.21087699,215.0,Y,Planning to expand my small business operations. I am very confident in repayment.,5773.2108769900005,0.0372345251290988,1,82,0,True,True,False,True,False,False,True,False
+3579,0.0,199.0,N,Planning to expand my small business operations. I am very confident in repayment.,3579.0,0.0555865921787709,1,82,0,True,False,True,False,False,True,False,False
+4567,0.0,322.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,4567.0,0.0704903677758318,1,80,0,True,False,False,False,True,True,False,False
+6379,0.0,248.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,6379.0,0.0388714733542319,1,80,0,True,False,False,False,True,False,True,False
+2565,0.0,169.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,2565.0,0.0658612626656274,1,80,1,True,False,False,True,False,True,False,False
+358,1315.96354522,369.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1673.96354522,0.2203033021542766,1,74,0,True,False,False,False,True,False,False,False
+150,0.0,237.0,N,Consolidating high-interest debts. I might struggle slightly initially.,150.0,1.5695364238410596,1,71,1,False,False,True,False,True,False,False,False
+1945,3228.11761241,243.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,5173.11761241,0.0469645296460154,1,80,1,False,False,True,False,True,False,True,False
+3263,430.78164246,304.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,3693.78164246,0.0822782046187702,1,74,0,True,False,True,False,False,True,False,False
+3696,0.0,194.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,3696.0,0.052474979713281,1,77,1,True,False,False,True,False,True,False,False
+184,0.0,243.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,184.0,1.3135135135135134,1,77,1,True,False,False,True,False,False,False,False
+747,0.0,83.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,747.0,0.1109625668449197,1,80,1,True,False,False,True,False,False,False,False
+2988,0.0,226.0,N,Buying a new car for daily commute. I might struggle slightly initially.,2988.0,0.0756105720976915,1,72,1,True,True,False,True,False,True,False,False
+1449,0.0,107.0,N,Planning to expand my small business operations. Business is booming right now.,1449.0,0.0737931034482758,1,79,0,False,False,False,True,False,False,False,False
+150,0.0,281.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,150.0,1.8609271523178808,0,74,1,True,False,False,False,False,False,False,False
+475,0.0,241.0,N,Consolidating high-interest debts. I am very confident in repayment.,475.0,0.5063025210084033,1,68,1,True,False,False,True,False,False,False,False
+7053,0.0,82.0,N,Buying a new car for daily commute. I am very confident in repayment.,7053.0,0.0116246101502693,1,69,0,True,True,False,True,False,False,True,False
+4845,1453.33152103,91.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,6298.33152103,0.0144459772749221,0,75,0,True,True,False,True,False,False,True,False
+3583,0.0,101.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,3583.0,0.0281808035714285,0,74,1,True,False,False,True,False,True,False,False
+150,4738.53661387,212.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,4888.53661387,0.0433578919111938,0,77,1,True,False,True,True,False,True,False,False
+150,614.07254442,195.0,Y,Planning to expand my small business operations. I am very confident in repayment.,764.07254442,0.2548777908999847,1,82,0,False,False,False,False,False,False,False,False
+1421,0.0,244.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,1421.0,0.1715893108298171,0,80,0,True,False,False,False,False,False,False,False
+150,152.127835,265.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,302.127835,0.8742186279263994,0,71,1,True,False,False,False,False,False,False,False
+150,0.0,141.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,150.0,0.933774834437086,1,80,0,True,True,True,False,True,False,False,False
+1702,0.0,192.0,N,Planning to expand my small business operations. Business is booming right now.,1702.0,0.1127422196124486,1,79,0,True,True,False,False,True,False,False,False
+1123,340.91522522,79.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1463.91522522,0.0539280353155834,1,77,1,True,False,False,False,True,False,False,False
+6548,0.0,229.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,6548.0,0.0349671705603909,1,72,1,True,False,True,True,False,False,True,False
+1299,0.0,131.0,N,Urgent medical expenses covered by loan. Business is booming right now.,1299.0,0.1007692307692307,1,71,1,False,True,False,False,True,False,False,False
+1607,174.7107864,368.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,1781.7107864,0.2064272022177741,1,88,0,True,False,True,False,False,False,False,False
+11949,0.0,227.0,Y,Consolidating high-interest debts. I am very confident in repayment.,11949.0,0.0189958158995815,1,68,1,False,False,False,False,False,False,False,True
+1083,2197.28911369,250.0,N,Consolidating high-interest debts. Facing some financial stress currently.,3280.28911369,0.0761895679831944,1,74,1,True,True,False,False,False,True,False,False
+2006,0.0,109.0,Y,Planning to expand my small business operations. I am very confident in repayment.,2006.0,0.0543099152964623,1,82,0,True,False,False,False,True,True,False,False
+1622,0.0,236.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,1622.0,0.1454097350585335,1,74,1,False,False,False,False,True,False,False,False
+3890,247.76893489,234.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,4137.76893489,0.056538551361824,1,77,1,True,True,False,False,False,True,False,False
+6902,0.0,220.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,6902.0,0.0318702013617267,1,74,1,True,False,False,True,False,False,True,False
+3884,0.27747384,228.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,3884.27747384,0.0586830674347325,1,77,1,True,True,False,False,True,True,False,False
+1200,0.0,108.0,N,Investment in a new startup opportunity. I am very confident in repayment.,1200.0,0.08992506244796,1,74,0,True,True,False,True,False,False,False,False
+5026,69.28204095,174.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,5095.28204095,0.0341425373638788,1,85,1,True,False,True,False,False,False,True,False
+1102,0.0,83.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,1102.0,0.0752493200362647,0,77,1,False,False,False,False,False,False,False,False
+7389,296.590141,208.0,Y,Buying a new car for daily commute. I am very confident in repayment.,7685.590141,0.0270601132861937,1,69,0,True,False,False,False,True,False,True,False
+150,262.54257974,171.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,412.54257974,0.4135003464637428,1,74,0,True,False,False,False,True,False,False,False
+925,0.0,377.0,Y,Investment in a new startup opportunity. Business is booming right now.,925.0,0.4071274298056155,0,71,0,False,False,False,True,False,False,False,False
+1072,0.0,381.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1072.0,0.3550792171481827,1,74,0,False,False,False,True,False,False,False,False
+539,0.0,65.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,539.0,0.1203703703703703,0,77,1,True,False,False,False,False,False,False,False
+584,0.0,228.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,584.0,0.3897435897435897,1,75,0,False,False,True,False,True,False,False,False
+1499,1064.4608591,218.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,2563.4608591,0.0850081213859927,0,80,1,True,True,False,False,True,True,False,False
+4792,0.0,177.0,N,Planning to expand my small business operations. Facing some financial stress currently.,4792.0,0.0369288545795952,1,88,0,True,True,False,True,False,True,False,False
+2988,0.0,231.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,2988.0,0.0772833723653395,1,71,1,True,True,False,True,False,True,False,False
+1577,0.0,254.0,Y,Planning to expand my small business operations. Business is booming right now.,1577.0,0.1609632446134347,0,79,0,True,True,False,False,False,False,False,False
+12748,0.0,256.0,N,I need to renovate my house immediately. I am very confident in repayment.,12748.0,0.0200800062750019,1,74,0,True,True,False,True,False,False,False,True
+2038,0.0,132.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,2038.0,0.064737616478666,0,77,1,True,False,False,False,False,True,False,False
+1374,0.0,221.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,1374.0,0.1607272727272727,0,80,0,True,False,False,False,True,False,False,False
+4729,0.0,172.0,Y,Planning to expand my small business operations. I am very confident in repayment.,4729.0,0.0363636363636363,1,82,0,True,True,False,True,False,True,False,False
+3311,0.0,152.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3311.0,0.0458937198067632,1,69,0,True,False,False,True,False,True,False,False
+550,0.0,395.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,550.0,0.7168784029038112,1,80,1,False,False,True,False,False,False,False,False
+2532,111.14694087,361.0,Y,I need to renovate my house immediately. Business is booming right now.,2643.14694087,0.136527964622579,1,71,0,True,True,False,False,False,True,False,False
+150,0.0,144.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,150.0,0.9536423841059604,1,74,1,True,False,True,True,False,False,False,False
+150,5015.09763914,168.0,N,Consolidating high-interest debts. I might struggle slightly initially.,5165.09763914,0.032519710569769,1,71,1,True,False,False,True,False,False,True,False
+150,670.14646926,238.0,N,I need to renovate my house immediately. Facing some financial stress currently.,820.14646926,0.2898386693600236,1,80,0,True,True,False,False,False,False,False,False
+2972,116.59678228,158.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,3088.59678228,0.0511393593190507,0,80,0,True,True,False,True,False,True,False,False
+150,0.0,235.0,Y,Planning to expand my small business operations. I am very confident in repayment.,150.0,1.5562913907284768,1,82,0,True,False,False,False,True,False,False,False
+2310,0.0,145.0,Y,Planning to expand my small business operations. Business is booming right now.,2310.0,0.062743401125054,0,79,0,True,False,False,False,True,True,False,False
+7262,0.0,191.0,Y,Consolidating high-interest debts. Business is booming right now.,7262.0,0.0262976731378218,0,65,1,True,True,False,False,False,False,True,False
+5764,0.0,219.0,N,Buying a new car for daily commute. I am very confident in repayment.,5764.0,0.037987857762359,1,69,0,True,False,True,False,True,False,True,False
+150,10012.85090373,197.0,N,Urgent medical expenses covered by loan. Business is booming right now.,10162.85090373,0.019382417340233,1,71,1,True,True,False,False,True,False,False,True
+1868,2210.71418993,426.0,N,Consolidating high-interest debts. Business is booming right now.,4078.71418993,0.1044190794177445,1,65,1,False,True,False,False,False,True,False,False
+13762,18.08147347,219.0,N,I need to renovate my house immediately. I am very confident in repayment.,13780.08147347,0.0158913507928675,1,74,0,False,False,False,False,False,False,False,True
+11306,3522.76676884,120.0,N,Investment in a new startup opportunity. I am very confident in repayment.,14828.76676884,0.0080918332614739,1,74,0,True,False,True,False,False,False,False,True
+1927,2161.53036361,78.0,N,I need to renovate my house immediately. Facing some financial stress currently.,4088.53036361,0.0190730947235579,0,80,0,True,False,True,False,True,True,False,False
+150,930.48645605,214.0,Y,Buying a new car for daily commute. Business is booming right now.,1080.48645605,0.1978758021451414,0,66,0,True,True,True,True,False,False,False,False
+150,0.0,266.0,Y,Investment in a new startup opportunity. Business is booming right now.,150.0,1.7615894039735098,0,71,0,False,True,False,False,True,False,False,False
+2163,0.0,80.0,Y,I need to renovate my house immediately. I am very confident in repayment.,2163.0,0.0369685767097966,1,74,0,True,True,False,False,False,True,False,False
+6288,296.40894627,147.0,Y,I need to renovate my house immediately. I am very confident in repayment.,6584.40894627,0.022322076153412,1,74,0,False,False,False,True,False,False,True,False
+9093,0.0,183.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,9093.0,0.020123158126237,1,74,1,True,True,False,False,False,False,True,False
+1928,946.28174073,233.0,Y,Investment in a new startup opportunity. Business is booming right now.,2874.28174073,0.0810355370395264,1,71,0,False,False,False,True,False,True,False,False
+16176,2958.12232921,224.0,Y,Buying a new car for daily commute. I am very confident in repayment.,19134.12232921,0.0117062225234934,1,69,0,True,True,False,True,False,False,False,True
+1395,49.51024184,79.0,N,Consolidating high-interest debts. Business is booming right now.,1444.51024184,0.0546519821951869,1,65,1,False,False,False,False,False,False,False,False
+150,0.0,439.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,2.9072847682119205,1,66,0,True,False,False,True,False,False,False,False
+5646,0.0,35.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,5646.0,0.0061979812289711,1,85,1,True,True,False,False,True,False,True,False
+150,0.0,171.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,150.0,1.1324503311258278,1,88,0,True,False,True,True,False,False,False,False
+3362,0.0,331.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,3362.0,0.0984240261671127,1,80,0,True,False,False,True,False,True,False,False
+150,0.0,251.0,N,I need to renovate my house immediately. Facing some financial stress currently.,150.0,1.6622516556291391,0,80,0,False,False,True,True,False,False,False,False
+318,0.0,181.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,318.0,0.567398119122257,1,71,1,True,False,False,True,False,False,False,False
+794,0.0,176.0,Y,Buying a new car for daily commute. Business is booming right now.,794.0,0.2213836477987421,0,66,0,False,False,False,False,True,False,False,False
+4012,0.0,51.0,N,I need to renovate my house immediately. Facing some financial stress currently.,4012.0,0.0127086967356092,1,80,0,True,False,False,False,False,True,False,False
+5118,2017.01910025,249.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,7135.01910025,0.0348934043620029,1,80,0,False,True,True,True,False,False,True,False
+1150,0.0,413.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1150.0,0.3588184187662901,1,71,1,True,False,False,False,False,False,False,False
+150,0.0,93.0,Y,Buying a new car for daily commute. I am very confident in repayment.,150.0,0.6158940397350994,1,69,0,True,False,False,True,False,False,False,False
+1831,0.0,167.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,1831.0,0.0911572052401746,0,80,1,True,True,False,False,True,False,False,False
+182,0.0,249.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,182.0,1.360655737704918,1,74,1,True,False,False,False,False,False,False,False
+830,2913.79355123,240.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,3743.79355123,0.0640889802646585,1,77,1,True,False,False,False,False,True,False,False
+150,0.0,97.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,0.6423841059602649,1,66,0,True,False,False,False,False,False,False,False
+1123,0.0,221.0,N,Planning to expand my small business operations. Facing some financial stress currently.,1123.0,0.1966192170818505,1,88,0,False,True,False,False,False,False,False,False
+4850,131.60754853,149.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,4981.60754853,0.0299040208462653,1,77,1,True,True,False,False,False,True,False,False
+17790,126.80392112,234.0,N,I need to renovate my house immediately. I am very confident in repayment.,17916.80392112,0.0130596361602205,1,74,0,True,False,False,False,True,False,False,True
+12625,82.3644045,202.0,N,Consolidating high-interest debts. I am very confident in repayment.,12707.3644045,0.0158950431047186,1,68,1,False,False,False,False,False,False,False,True
+150,0.0,204.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,150.0,1.3509933774834435,1,80,0,True,False,False,False,False,False,False,False
+900,0.0,345.0,N,Consolidating high-interest debts. I might struggle slightly initially.,900.0,0.3829078801331853,1,71,1,False,True,False,True,False,False,False,False
+5685,40.98283213,250.0,N,Investment in a new startup opportunity. I am very confident in repayment.,5725.98283213,0.0436530032179298,1,74,0,False,False,False,True,False,False,True,False
+150,0.0,271.0,N,Buying a new car for daily commute. I am very confident in repayment.,150.0,1.794701986754967,1,69,0,False,False,False,True,False,False,False,False
+5276,0.0,196.0,Y,Investment in a new startup opportunity. Business is booming right now.,5276.0,0.0371423157096835,1,71,0,True,True,False,True,False,False,True,False
+483,0.0,259.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,483.0,0.5351239669421488,1,85,1,True,True,True,True,False,False,False,False
+5542,232.77328222,185.0,Y,Investment in a new startup opportunity. Business is booming right now.,5774.77328222,0.0320303431177777,0,71,0,False,False,True,False,False,False,True,False
+150,0.0,171.0,Y,Investment in a new startup opportunity. Business is booming right now.,150.0,1.1324503311258278,1,71,0,True,False,False,True,False,False,False,False
+9652,2119.29836342,67.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,11771.29836342,0.0056913270401121,0,71,1,True,False,True,False,False,False,False,True
+5418,0.0,207.0,Y,Planning to expand my small business operations. I am very confident in repayment.,5418.0,0.038198929691825,1,82,0,True,False,True,False,True,False,True,False
+636,0.0,241.0,N,Urgent medical expenses covered by loan. Business is booming right now.,636.0,0.3783359497645212,1,71,1,False,False,False,False,False,False,False,False
+971,397.77958959,41.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,1368.77958959,0.029931822836017,1,77,1,True,False,False,True,False,False,False,False
+6857,0.0,196.0,N,Investment in a new startup opportunity. I am very confident in repayment.,6857.0,0.0285797608632254,1,74,0,True,False,False,False,True,False,True,False
+2753,0.0,242.0,Y,I need to renovate my house immediately. I am very confident in repayment.,2753.0,0.0878721859114016,0,74,0,True,False,True,True,False,True,False,False
+2016,1666.23874602,172.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,3682.23874602,0.0466980317759358,1,75,0,True,True,False,True,False,True,False,False
+597,670.97952438,238.0,N,Planning to expand my small business operations. Facing some financial stress currently.,1267.97952438,0.1875522775801149,1,88,0,True,False,False,False,False,False,False,False
+1755,1191.63764464,108.0,N,Buying a new car for daily commute. I might struggle slightly initially.,2946.63764464,0.0366395103537871,1,72,1,True,False,False,False,False,True,False,False
+4433,788.27421718,124.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,5221.27421718,0.0237444444399473,1,77,1,True,False,True,True,False,False,True,False
+150,0.0,165.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,1.0927152317880795,0,65,1,False,False,False,False,False,False,False,False
+150,0.0,239.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.5827814569536425,0,74,0,False,False,True,False,True,False,False,False
+10544,0.0,147.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,10544.0,0.0139402560455192,1,74,1,True,False,False,False,True,False,False,True
+3303,0.0,125.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,3303.0,0.0378329297820823,1,71,1,True,False,False,False,True,True,False,False
+4592,0.0,164.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,4592.0,0.0357065099063792,1,80,0,False,True,False,False,False,True,False,False
+150,0.0,243.0,N,Buying a new car for daily commute. Business is booming right now.,150.0,1.609271523178808,1,66,0,True,False,False,False,True,False,False,False
+7869,0.0,271.0,N,Consolidating high-interest debts. Facing some financial stress currently.,7869.0,0.0344345616264294,1,74,1,True,True,False,True,False,False,True,False
+3213,88.35380502,111.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,3301.35380502,0.0336123887850132,1,72,1,True,False,False,False,True,True,False,False
+150,400.48448481,271.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,550.48448481,0.4914009504607662,1,74,1,True,False,False,True,False,False,False,False
+150,0.0,265.0,N,Planning to expand my small business operations. I am very confident in repayment.,150.0,1.7549668874172186,1,82,0,False,False,False,False,False,False,False,False
+204,223.90600342,275.0,Y,Planning to expand my small business operations. Business is booming right now.,427.90600342,0.6411661245289454,1,79,0,True,True,False,True,False,False,False,False
+3751,68.54820175,412.0,N,Buying a new car for daily commute. I am very confident in repayment.,3819.54820175,0.1078379275024677,1,69,0,True,False,False,False,False,True,False,False
+918,0.0,166.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,918.0,0.1806311207834602,0,71,1,True,False,False,True,False,False,False,False
+3322,854.89110113,416.0,Y,Buying a new car for daily commute. I am very confident in repayment.,4176.89110113,0.0995717671739897,1,69,0,False,False,False,True,False,True,False,False
+957,88.32402243,91.0,Y,I need to renovate my house immediately. I am very confident in repayment.,1045.32402243,0.0869711466517418,0,74,0,True,False,False,False,False,False,False,False
+150,0.0,231.0,N,Buying a new car for daily commute. Facing some financial stress currently.,150.0,1.5298013245033113,1,75,0,True,False,False,False,False,False,False,False
+2054,0.0,394.0,Y,I need to renovate my house immediately. Business is booming right now.,2054.0,0.1917274939172749,1,71,0,True,False,False,False,True,True,False,False
+638,0.0,253.0,Y,Buying a new car for daily commute. Business is booming right now.,638.0,0.3959311424100156,0,66,0,True,False,False,False,True,False,False,False
+440,1254.40575492,172.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,1694.40575492,0.1014506406509845,1,72,1,True,True,False,False,False,False,False,False
+4490,0.0,283.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,4490.0,0.0630149187263415,1,74,0,True,True,False,False,False,True,False,False
+150,0.0,179.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,1.185430463576159,1,77,1,True,False,True,True,False,False,False,False
+1046,3288.25595409,206.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,4334.25595409,0.0475173789463696,1,74,1,True,True,False,True,False,True,False,False
+2165,0.0,353.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,2165.0,0.1629732225300092,1,80,1,True,False,False,False,False,True,False,False
+4305,4351.6143292,83.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,8656.6143292,0.0095869366368124,1,77,1,True,False,False,False,True,False,True,False
+150,482.01945559,9.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,632.01945559,0.014217572494058,1,71,1,True,False,False,False,True,False,False,False
+1270,0.0,120.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,1270.0,0.0944138473642801,0,74,1,True,True,False,False,False,False,False,False
+756,0.0,197.0,Y,Consolidating high-interest debts. Business is booming right now.,756.0,0.2602377807133421,1,65,1,True,True,False,False,False,False,False,False
+150,0.0,178.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,150.0,1.1788079470198676,1,88,0,False,False,False,False,True,False,False,False
+985,0.0,258.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,985.0,0.2616632860040568,1,71,1,True,False,True,True,False,False,False,False
+513,0.0,9.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,513.0,0.0175097276264591,1,74,1,True,False,False,False,True,False,False,False
+1185,0.0,144.0,N,Buying a new car for daily commute. Business is booming right now.,1185.0,0.1214165261382799,1,66,0,True,False,False,False,False,False,False,False
+2585,0.0,169.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,2585.0,0.0653518948182521,1,88,0,True,False,False,True,False,True,False,False
+2436,0.0,176.0,Y,Buying a new car for daily commute. Business is booming right now.,2436.0,0.0722199425523184,1,66,0,True,False,False,False,True,True,False,False
+150,0.0,218.0,Y,Planning to expand my small business operations. I am very confident in repayment.,150.0,1.4437086092715232,1,82,0,True,True,False,False,True,False,False,False
+2172,0.0,245.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,2172.0,0.1127473538886332,1,85,1,True,False,False,True,False,True,False,False
+3565,0.0,227.0,Y,Planning to expand my small business operations. I am very confident in repayment.,3565.0,0.0636567582725743,1,82,0,False,True,False,True,False,True,False,False
+5699,0.0,108.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,5699.0,0.0189473684210526,1,80,1,True,False,False,True,False,False,True,False
+8031,0.0,173.0,Y,Consolidating high-interest debts. I am very confident in repayment.,8031.0,0.0215388446215139,0,68,1,True,False,True,False,True,False,True,False
+150,309.10613734,214.0,Y,Consolidating high-interest debts. I am very confident in repayment.,459.10613734,0.4651100748996586,1,68,1,True,False,False,False,True,False,False,False
+6581,0.0,259.0,Y,Investment in a new startup opportunity. Business is booming right now.,6581.0,0.0393497417198419,1,71,0,True,True,False,True,False,False,True,False
+1053,0.0,179.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1053.0,0.1698292220113852,1,71,1,False,False,True,True,False,False,False,False
+561,0.0,189.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,561.0,0.3362989323843416,0,74,1,True,True,False,False,True,False,False,False
+4496,0.0,127.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,4496.0,0.0282410495886146,1,75,0,True,True,True,False,True,True,False,False
+8644,0.0,288.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,8644.0,0.0333140543666859,1,77,1,True,False,True,False,True,False,True,False
+150,0.0,192.0,Y,I need to renovate my house immediately. Business is booming right now.,150.0,1.271523178807947,1,71,0,False,True,False,False,False,False,False,False
+2706,1975.29607343,159.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,4681.29607343,0.0339576988525471,0,74,1,False,False,True,False,False,True,False,False
+2465,0.0,191.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2465.0,0.0774533657745336,1,72,1,True,False,False,False,False,True,False,False
+928,82.98851297,161.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,1010.98851297,0.1590927149237046,1,72,1,True,False,False,False,True,False,False,False
+4304,0.0,59.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,4304.0,0.013704994192799,1,72,1,True,False,False,True,False,True,False,False
+4120,0.0,62.0,N,I need to renovate my house immediately. I am very confident in repayment.,4120.0,0.0150448920165008,1,74,0,True,False,False,False,False,True,False,False
+2830,0.0,154.0,N,Consolidating high-interest debts. Business is booming right now.,2830.0,0.0543977393147297,1,65,1,True,True,False,False,False,True,False,False
+5055,0.0,157.0,N,Consolidating high-interest debts. Business is booming right now.,5055.0,0.0310522151898734,1,65,1,True,True,False,True,False,False,True,False
+150,0.0,267.0,N,Buying a new car for daily commute. Business is booming right now.,150.0,1.7682119205298013,1,66,0,True,True,True,False,True,False,False,False
+601,0.0,179.0,Y,Investment in a new startup opportunity. Business is booming right now.,601.0,0.2973421926910299,0,71,0,False,False,False,False,True,False,False,False
+8844,188.23472432,231.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,9032.23472432,0.0255722348693191,1,77,1,False,False,False,False,True,False,True,False
+2527,1211.20201727,259.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,3738.20201727,0.0692661158193042,1,80,0,True,False,True,False,False,True,False,False
+3561,0.0,36.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,3561.0,0.0101066816395283,1,71,1,True,True,False,True,False,True,False,False
+150,0.0,266.0,N,Consolidating high-interest debts. I am very confident in repayment.,150.0,1.7615894039735098,1,68,1,True,False,False,False,False,False,False,False
+8700,0.0,168.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,8700.0,0.0193081255028157,1,71,1,False,False,False,False,True,False,True,False
+1249,355.13818499,341.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1604.13818499,0.2124427685969756,1,71,1,False,False,False,False,False,False,False,False
+1355,98.29998148,399.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1453.29998148,0.2743588015410335,1,74,1,True,True,False,True,False,False,False,False
+4212,0.0,211.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,4212.0,0.0500830761927367,1,80,1,True,False,False,False,False,True,False,False
+1498,167.65058832,199.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,1665.65058832,0.1194011518638672,1,88,0,True,False,False,False,False,False,False,False
+3556,0.0,198.0,N,I need to renovate my house immediately. Business is booming right now.,3556.0,0.0556648861400056,1,71,0,True,True,False,False,False,True,False,False
+12678,199.81984147,214.0,Y,Consolidating high-interest debts. I am very confident in repayment.,12877.81984147,0.0166164293494437,1,68,1,False,False,False,False,False,False,False,True
+150,1858.90774897,159.0,Y,Buying a new car for daily commute. Business is booming right now.,2008.90774897,0.0791081083604366,1,66,0,True,False,False,True,False,True,False,False
+4537,0.0,237.0,Y,Planning to expand my small business operations. I am very confident in repayment.,4537.0,0.0522256500661084,0,82,0,True,False,False,False,True,True,False,False
+150,2467.33431878,121.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2617.33431878,0.0462125860445427,1,72,1,True,True,False,False,True,True,False,False
+150,2843.80293394,251.0,N,Buying a new car for daily commute. Facing some financial stress currently.,2993.80293394,0.0838118585885653,1,75,0,True,False,False,False,False,True,False,False
+3804,0.0,162.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,3804.0,0.0425755584756898,1,88,0,True,False,False,False,True,True,False,False
+6121,4356.0719287,231.0,N,Urgent medical expenses covered by loan. Business is booming right now.,10477.0719287,0.022046040681137,0,71,1,True,False,True,True,False,False,False,True
+150,0.0,180.0,N,Consolidating high-interest debts. I might struggle slightly initially.,150.0,1.1920529801324504,0,71,1,True,True,False,False,True,False,False,False
+4550,0.0,9.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,4550.0,0.001977587343441,1,80,1,True,False,False,False,True,True,False,False
+417,0.0,238.0,Y,Consolidating high-interest debts. I am very confident in repayment.,417.0,0.569377990430622,1,68,1,False,False,False,False,False,False,False,False
+150,0.0,204.0,Y,Buying a new car for daily commute. I am very confident in repayment.,150.0,1.3509933774834435,1,69,0,False,False,False,False,False,False,False,False
+868,0.0,178.0,N,I need to renovate my house immediately. I am very confident in repayment.,868.0,0.2048331415420023,0,74,0,True,False,False,False,False,False,False,False
+5650,0.0,171.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,5650.0,0.0302601309502742,1,80,1,True,False,False,True,False,False,True,False
+1459,329.74564592,172.0,Y,I need to renovate my house immediately. I am very confident in repayment.,1788.74564592,0.0961030414529016,1,74,0,True,False,False,False,True,False,False,False
+150,127.51922402,125.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,277.51922402,0.4488020546510784,1,85,1,False,False,False,False,False,False,False,False
+1448,0.0,95.0,N,Buying a new car for daily commute. I might struggle slightly initially.,1448.0,0.0655624568668046,1,72,1,True,False,False,False,True,False,False,False
+5313,49.01588117,123.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,5362.01588117,0.0229348565667805,0,77,1,False,True,False,True,False,False,True,False
+793,323.15133192,122.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,1116.15133192,0.1092063326732322,1,80,1,True,True,False,False,True,False,False,False
+1558,604.851155,131.0,Y,Buying a new car for daily commute. Business is booming right now.,2162.851155,0.0605402084599483,1,66,0,True,False,False,True,False,True,False,False
+150,3828.23527729,281.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,3978.23527729,0.0706165834434828,1,74,1,True,False,False,False,True,True,False,False
+1516,313.67187432,383.0,N,Planning to expand my small business operations. Facing some financial stress currently.,1829.67187432,0.2092128061683718,1,88,0,True,False,False,False,False,False,False,False
+2495,505.08936636,141.0,Y,Investment in a new startup opportunity. Business is booming right now.,3000.08936636,0.0469829394554211,1,71,0,True,False,False,False,False,True,False,False
+3524,0.0,208.0,Y,I need to renovate my house immediately. Business is booming right now.,3524.0,0.0590070921985815,1,71,0,True,False,False,False,True,True,False,False
+1158,0.0,199.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,1158.0,0.1716997411561691,1,77,1,True,False,False,True,False,False,False,False
+170,0.0,293.0,N,I need to renovate my house immediately. Facing some financial stress currently.,170.0,1.713450292397661,1,80,0,False,False,False,True,False,False,False,False
+3354,0.0,143.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,3354.0,0.0426229508196721,1,80,0,True,True,False,False,True,True,False,False
+11493,297.95999664,213.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,11790.95999664,0.0180631549005163,0,74,1,True,False,False,False,False,False,False,True
+1081,0.0,197.0,N,Consolidating high-interest debts. Business is booming right now.,1081.0,0.1820702402957486,1,65,1,True,True,False,False,False,False,False,False
+1026,0.0,348.0,N,Buying a new car for daily commute. Facing some financial stress currently.,1026.0,0.3388510223953262,1,75,0,True,False,False,False,True,False,False,False
+1722,0.0,526.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,1722.0,0.3052814857806152,1,72,1,False,True,False,False,True,False,False,False
+6712,0.0,182.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,6712.0,0.02711157455683,1,71,1,True,True,False,False,True,False,True,False
+2086,0.0,118.0,N,Consolidating high-interest debts. I am very confident in repayment.,2086.0,0.0565404887398179,1,68,1,False,False,True,False,True,True,False,False
+3110,489.8512394,163.0,N,Buying a new car for daily commute. I am very confident in repayment.,3599.8512394,0.0452670741341595,1,69,0,False,True,False,True,False,True,False,False
+8315,443.27690423,460.0,N,Urgent medical expenses covered by loan. Business is booming right now.,8758.27690423,0.0525157504471468,1,71,1,True,False,True,False,True,False,True,False
+150,1584.83864997,198.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,1734.83864997,0.114065901230752,1,74,1,False,False,True,False,True,False,False,False
+3825,1871.13195011,9.0,Y,I need to renovate my house immediately. Business is booming right now.,5696.13195011,0.0015797422420286,1,71,0,True,False,False,False,False,False,True,False
+4556,0.0,204.0,N,Buying a new car for daily commute. I am very confident in repayment.,4556.0,0.0447662936142198,1,69,0,True,True,False,True,False,True,False,False
+200,0.0,246.0,N,Consolidating high-interest debts. Business is booming right now.,200.0,1.2238805970149254,1,65,1,False,False,False,False,True,False,False,False
+353,120.48583346,245.0,Y,Planning to expand my small business operations. Business is booming right now.,473.48583346,0.516348398040537,1,79,0,True,False,False,False,False,False,False,False
+150,2520.87027631,333.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2670.87027631,0.12463179928776,1,77,1,True,False,False,True,False,True,False,False
+809,0.0,264.0,Y,Planning to expand my small business operations. Business is booming right now.,809.0,0.3259259259259259,1,79,0,False,True,True,False,False,False,False,False
+16220,0.0,239.0,Y,I need to renovate my house immediately. I am very confident in repayment.,16220.0,0.0147339868072252,0,74,0,True,True,True,False,True,False,False,True
+217,0.0,102.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,217.0,0.4678899082568807,1,72,1,True,False,False,True,False,False,False,False
+2222,0.0,69.0,Y,Planning to expand my small business operations. Business is booming right now.,2222.0,0.0310391363022942,1,79,0,True,False,False,False,False,True,False,False
+150,0.0,9.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,150.0,0.0596026490066225,1,71,1,False,False,False,False,True,False,False,False
+2236,0.0,226.0,N,Consolidating high-interest debts. I am very confident in repayment.,2236.0,0.1010281627179257,0,68,1,False,False,False,False,True,True,False,False
+4454,363.17563068,101.0,Y,Consolidating high-interest debts. I am very confident in repayment.,4817.17563068,0.0209622910706859,0,68,1,True,False,False,False,False,True,False,False
+578,529.77769635,173.0,Y,Investment in a new startup opportunity. Business is booming right now.,1107.77769635,0.1560276695405228,1,71,0,True,True,False,False,True,False,False,False
+610,0.0,92.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,610.0,0.1505728314238952,1,74,1,True,False,False,False,True,False,False,False
+2725,0.0,205.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,2725.0,0.0752017608217168,0,71,1,True,False,True,True,False,True,False,False
+2325,178.67473378,177.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,2503.67473378,0.0706678586296415,1,85,1,True,False,False,False,False,True,False,False
+150,0.0,259.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,1.7152317880794703,1,80,0,True,False,False,False,False,False,False,False
+341,0.0,237.0,N,I need to renovate my house immediately. Facing some financial stress currently.,341.0,0.6929824561403509,1,80,0,True,False,True,True,False,False,False,False
+2845,0.0,177.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2845.0,0.0621925509486999,1,77,1,True,True,False,True,False,True,False,False
+3266,0.0,65.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3266.0,0.019895928986838,1,69,0,True,False,True,False,True,True,False,False
+6407,0.0,92.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,6407.0,0.0143570536828963,1,74,0,True,False,False,True,False,False,True,False
+13238,0.0,409.0,N,Planning to expand my small business operations. I am very confident in repayment.,13238.0,0.030893572022056,0,82,0,False,True,True,False,False,False,False,True
+150,900.85462689,147.0,Y,Buying a new car for daily commute. Business is booming right now.,1050.85462689,0.1397531524243348,1,66,0,True,False,False,False,True,False,False,False
+1342,0.0,184.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,1342.0,0.1370067014147431,1,77,1,True,False,False,False,True,False,False,False
+3494,0.0,371.0,Y,Investment in a new startup opportunity. Business is booming right now.,3494.0,0.1061516452074392,0,71,0,True,False,False,True,False,True,False,False
+150,0.0,196.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,1.2980132450331126,1,65,1,True,False,False,False,False,False,False,False
+274,0.0,163.0,Y,Planning to expand my small business operations. Business is booming right now.,274.0,0.5927272727272728,1,79,0,False,False,True,False,False,False,False,False
+1818,2844.45780921,137.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,4662.45780921,0.0293773430799426,0,77,1,True,False,False,True,False,True,False,False
+150,2.18252899,232.0,N,Consolidating high-interest debts. Business is booming right now.,152.18252899,1.5145330314734868,1,65,1,True,False,False,True,False,False,False,False
+3539,0.0,261.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,3539.0,0.073728813559322,1,80,0,True,False,False,False,False,True,False,False
+1515,0.0,9.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1515.0,0.0059366754617414,1,77,1,True,True,False,False,True,False,False,False
+1528,0.0,208.0,N,Consolidating high-interest debts. I might struggle slightly initially.,1528.0,0.1360366252452583,1,71,1,True,False,True,False,False,False,False,False
+2122,270.17895029,194.0,Y,Consolidating high-interest debts. Business is booming right now.,2392.17895029,0.0810637248737673,0,65,1,True,False,False,False,True,True,False,False
+586,0.0,447.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,586.0,0.7614991482112436,1,80,0,True,False,False,False,True,False,False,False
+1245,0.0,391.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1245.0,0.3138041733547351,0,74,1,True,False,True,False,True,False,False,False
+2272,278.74091931,179.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,2550.74091931,0.0701481873200521,1,88,0,True,False,True,False,False,True,False,False
+954,0.0,331.0,N,I need to renovate my house immediately. I might struggle slightly initially.,954.0,0.3465968586387434,1,77,1,True,False,False,True,False,False,False,False
+4719,0.0,146.0,N,Planning to expand my small business operations. Facing some financial stress currently.,4719.0,0.0309322033898305,1,88,0,False,False,False,True,False,True,False,False
+1065,0.0,284.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1065.0,0.2664165103189493,1,71,1,False,False,False,True,False,False,False,False
+150,117.32002974,255.0,Y,Consolidating high-interest debts. I am very confident in repayment.,267.32002974,0.9503576764175712,1,68,1,True,False,False,False,True,False,False,False
+6978,155.56118995,431.0,Y,Consolidating high-interest debts. Business is booming right now.,7133.56118995,0.0604101623807112,1,65,1,True,True,False,False,True,False,True,False
+428,130.92443908,143.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,558.92443908,0.255391602900849,1,77,1,True,False,True,True,False,False,False,False
+150,31.99273088,136.0,Y,Consolidating high-interest debts. Business is booming right now.,181.99273088,0.743198920230246,1,65,1,True,False,True,False,False,False,False,False
+150,0.0,270.0,N,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.7880794701986755,1,74,0,True,False,False,True,False,False,False,False
+754,0.0,230.0,N,Investment in a new startup opportunity. I am very confident in repayment.,754.0,0.304635761589404,1,74,0,True,False,False,True,False,False,False,False
+2402,0.0,224.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,2402.0,0.0932168123179359,1,85,1,True,False,False,False,True,True,False,False
+1813,0.0,160.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1813.0,0.0882028665931642,1,82,0,True,True,False,True,False,False,False,False
+1562,0.0,87.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,1562.0,0.055662188099808,1,85,1,True,True,False,False,True,False,False,False
+1757,363.57080385,305.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,2120.57080385,0.143761405203408,1,71,1,True,False,True,False,True,True,False,False
+3080,0.0,181.0,Y,I need to renovate my house immediately. Business is booming right now.,3080.0,0.0587471600129827,1,71,0,True,False,False,False,True,True,False,False
+3377,0.0,31.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,3377.0,0.0091770278271166,1,77,1,True,False,False,True,False,True,False,False
+4361,3035.16224016,383.0,N,Planning to expand my small business operations. I might struggle slightly initially.,7396.16224016,0.0517766121068227,1,85,1,True,False,False,False,True,False,True,False
+952,0.0,240.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,952.0,0.2518363064008394,1,74,1,True,True,True,True,False,False,False,False
+3753,0.0,162.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3753.0,0.043153969099627,1,69,0,True,False,False,False,True,True,False,False
+2811,0.0,134.0,Y,Consolidating high-interest debts. I am very confident in repayment.,2811.0,0.0476529160739687,1,68,1,True,True,False,False,True,True,False,False
+5740,0.0,229.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,5740.0,0.0398885211635603,1,74,1,True,False,False,False,True,False,True,False
+188,411.53794373,246.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,599.53794373,0.4096327343982128,1,77,1,True,True,False,True,False,False,False,False
+5076,0.0,65.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,5076.0,0.0128028363206618,1,74,1,False,False,True,False,False,False,True,False
+546,384.10216006,27.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,930.10216006,0.0289978921306123,1,88,0,True,False,False,False,True,False,False,False
+4389,0.0,211.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,4389.0,0.0480637813211845,0,71,1,True,False,False,False,True,True,False,False
+8240,0.0,167.0,N,I need to renovate my house immediately. I am very confident in repayment.,8240.0,0.0202645310035189,1,74,0,True,False,False,False,True,False,True,False
+1897,0.0,184.0,Y,Buying a new car for daily commute. Business is booming right now.,1897.0,0.0969441517386722,1,66,0,True,True,False,False,False,False,False,False
+5180,0.0,131.0,N,Planning to expand my small business operations. I am very confident in repayment.,5180.0,0.0252846940745029,0,82,0,True,False,False,False,True,False,True,False
+150,0.0,167.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,1.1059602649006623,1,80,0,True,False,False,True,False,False,False,False
+2372,0.0,296.0,N,Buying a new car for daily commute. I might struggle slightly initially.,2372.0,0.1247366203118415,0,72,1,True,True,False,False,False,True,False,False
+1929,1372.95094023,134.0,Y,Planning to expand my small business operations. I am very confident in repayment.,3301.95094023,0.0405697821205509,1,82,0,True,False,True,False,False,True,False,False
+1491,1418.75077521,347.0,Y,Planning to expand my small business operations. Business is booming right now.,2909.75077521,0.1192132294373314,1,79,0,True,False,False,False,False,True,False,False
+150,2156.6742663,170.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,2306.6742663,0.0736672425925036,0,71,1,True,False,False,False,True,True,False,False
+919,1049.61871852,255.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1968.61871852,0.1294666818518107,0,74,0,True,True,True,False,False,False,False,False
+3175,0.0,9.0,Y,I need to renovate my house immediately. I am very confident in repayment.,3175.0,0.0028337531486146,1,74,0,True,True,False,False,True,True,False,False
+3000,0.0,183.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,3000.0,0.0609796734421859,0,80,0,True,False,False,False,False,True,False,False
+4704,0.0,600.0,Y,I need to renovate my house immediately. Business is booming right now.,4704.0,0.1275239107332625,1,71,0,False,False,False,False,False,True,False,False
+1050,525.990097,420.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,1575.990097,0.2663301442405951,1,80,0,True,False,False,True,False,False,False,False
+830,308.0687659,242.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1138.0687659,0.2124542496859627,1,77,1,True,True,False,True,False,False,False,False
+150,0.0,196.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,150.0,1.2980132450331126,0,74,1,False,True,True,False,False,False,False,False
+150,0.0,151.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,1.0,1,65,1,True,True,False,False,True,False,False,False
+2068,0.0,88.0,N,I need to renovate my house immediately. Business is booming right now.,2068.0,0.042532624456259,0,71,0,True,False,False,True,False,True,False,False
+910,0.0,102.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,910.0,0.1119648737650933,1,80,1,True,False,False,True,False,False,False,False
+1117,1372.69086858,180.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,2489.69086858,0.0722691050385639,1,80,0,True,False,True,False,True,True,False,False
+150,0.0,178.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,1.1788079470198676,0,80,0,True,False,False,False,False,False,False,False
+9229,0.0,65.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,9229.0,0.0070422535211267,1,88,0,False,False,True,False,True,False,True,False
+2427,71.32471103,163.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,2498.32471103,0.0652176162947734,1,80,1,True,True,True,False,True,True,False,False
+150,0.0,108.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,0.7152317880794702,0,77,1,True,True,False,False,True,False,False,False
+150,0.0,269.0,N,Buying a new car for daily commute. Business is booming right now.,150.0,1.781456953642384,0,66,0,True,False,True,False,False,False,False,False
+150,0.0,173.0,Y,Consolidating high-interest debts. I am very confident in repayment.,150.0,1.145695364238411,1,68,1,True,False,False,False,True,False,False,False
+961,306.31705603,90.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1267.31705603,0.0709601748018053,1,82,0,True,False,False,False,True,False,False,False
+4174,22.13172206,141.0,Y,Buying a new car for daily commute. Business is booming right now.,4196.13172206,0.0335943709507395,1,66,0,True,False,False,False,False,True,False,False
+7651,209.47533323,97.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,7860.47533323,0.0123386509387095,1,74,1,True,False,False,False,True,False,True,False
+3174,0.0,151.0,N,Consolidating high-interest debts. I might struggle slightly initially.,3174.0,0.0475590551181102,1,71,1,False,True,False,False,True,True,False,False
+3146,0.0,250.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3146.0,0.0794407372100413,1,69,0,True,True,True,False,True,True,False,False
+2952,686.98561856,600.0,Y,Consolidating high-interest debts. I am very confident in repayment.,3638.98561856,0.1648358160924173,1,68,1,True,False,False,False,True,True,False,False
+150,0.0,244.0,Y,Buying a new car for daily commute. I am very confident in repayment.,150.0,1.6158940397350994,1,69,0,True,False,False,True,False,False,False,False
+2042,0.0,202.0,Y,Investment in a new startup opportunity. Business is booming right now.,2042.0,0.0988742046010768,1,71,0,True,False,False,True,False,True,False,False
+150,0.0,242.0,Y,Planning to expand my small business operations. Business is booming right now.,150.0,1.6026490066225163,1,79,0,True,True,False,False,False,False,False,False
+1211,16.99571569,171.0,Y,Buying a new car for daily commute. Business is booming right now.,1227.99571569,0.1391379952077333,1,66,0,True,False,True,True,False,False,False,False
+150,0.0,344.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,150.0,2.2781456953642385,1,80,1,True,False,False,False,False,False,False,False
+150,0.0,180.0,N,Planning to expand my small business operations. I might struggle slightly initially.,150.0,1.1920529801324504,1,85,1,True,False,False,True,False,False,False,False
+7365,0.0,146.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,7365.0,0.0198207982622861,1,72,1,True,False,False,False,False,False,True,False
+2066,378.84268129,49.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,2444.84268129,0.0200339949804768,1,77,1,True,True,False,True,False,True,False,False
+150,0.0,216.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,1.4304635761589404,0,65,1,True,True,False,False,False,False,False,False
+307,0.0,233.0,N,I need to renovate my house immediately. Facing some financial stress currently.,307.0,0.7564935064935064,0,80,0,False,False,False,False,False,False,False,False
+150,0.0,212.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,1.403973509933775,1,77,1,True,False,False,True,False,False,False,False
+1944,200.89505693,86.0,N,Investment in a new startup opportunity. Business is booming right now.,2144.89505693,0.0400765171261612,1,71,0,True,False,False,True,False,True,False,False
+150,27.36931002,137.0,N,Buying a new car for daily commute. Facing some financial stress currently.,177.36931002,0.7680693499607002,1,75,0,False,False,False,False,True,False,False,False
+3157,0.0,67.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3157.0,0.0212159594680177,1,69,0,False,True,False,True,False,True,False,False
+150,346.49913114,123.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,496.49913114,0.2472366126914639,0,77,1,True,False,False,False,False,False,False,False
+2822,355.45171813,152.0,N,Planning to expand my small business operations. I might struggle slightly initially.,3177.45171813,0.0478220257784589,1,85,1,False,False,True,False,True,True,False,False
+3190,0.0,115.0,N,Consolidating high-interest debts. I am very confident in repayment.,3190.0,0.036038859291758,1,68,1,True,False,False,False,True,True,False,False
+3851,0.0,106.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3851.0,0.0275181723779854,1,69,0,True,False,False,False,False,True,False,False
+150,2115.93826548,57.0,Y,Buying a new car for daily commute. Business is booming right now.,2265.93826548,0.025144045988359,1,66,0,True,True,False,True,False,True,False,False
+1649,0.0,346.0,Y,Consolidating high-interest debts. I am very confident in repayment.,1649.0,0.2096969696969697,1,68,1,False,False,False,False,False,False,False,False
+150,1402.76408478,196.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,1552.76408478,0.1261452764418557,1,74,1,False,False,True,False,False,False,False,False
+2092,0.0,220.0,Y,Buying a new car for daily commute. I am very confident in repayment.,2092.0,0.1051122790253225,1,69,0,True,False,False,False,True,True,False,False
+6073,0.0,229.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,6073.0,0.0377016792887718,1,75,0,True,True,True,True,False,False,True,False
+2615,0.0,433.0,Y,Planning to expand my small business operations. Business is booming right now.,2615.0,0.1655198776758409,1,79,0,True,False,False,False,False,True,False,False
+1595,0.0,202.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1595.0,0.1265664160401002,1,74,0,True,False,False,False,True,False,False,False
+516,0.0,137.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,516.0,0.264990328820116,1,80,0,True,False,False,True,False,False,False,False
+1254,0.0,166.0,Y,Buying a new car for daily commute. I am very confident in repayment.,1254.0,0.1322709163346613,1,69,0,True,True,False,False,False,False,False,False
+1685,0.0,239.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,1685.0,0.1417556346381969,1,74,1,True,False,False,False,False,False,False,False
+3039,0.0,200.0,N,Planning to expand my small business operations. I might struggle slightly initially.,3039.0,0.0657894736842105,1,85,1,True,False,False,True,False,True,False,False
+1352,0.0,371.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,1352.0,0.2742054693274205,1,80,0,True,True,False,True,False,False,False,False
+1460,589.55848202,100.0,Y,Consolidating high-interest debts. Business is booming right now.,2049.55848202,0.0487672021436278,1,65,1,False,False,False,False,False,True,False,False
+3239,0.0,128.0,Y,Planning to expand my small business operations. Business is booming right now.,3239.0,0.0395061728395061,1,79,0,True,False,False,False,True,True,False,False
+150,0.0,207.0,Y,I need to renovate my house immediately. Business is booming right now.,150.0,1.3708609271523178,1,71,0,True,False,False,False,False,False,False,False
+1181,0.0,55.0,N,Planning to expand my small business operations. I might struggle slightly initially.,1181.0,0.0465313028764805,0,85,1,True,False,False,True,False,False,False,False
+8466,0.0,192.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,8466.0,0.0226762725876933,1,74,1,False,False,True,False,False,False,True,False
+150,2108.81750936,37.0,N,I need to renovate my house immediately. I am very confident in repayment.,2258.81750936,0.0163730035043753,1,74,0,True,False,False,True,False,True,False,False
+1316,229.63923229,179.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1545.63923229,0.1157348114950939,1,74,1,True,True,False,False,False,False,False,False
+1970,0.0,237.0,N,Buying a new car for daily commute. Facing some financial stress currently.,1970.0,0.1202435312024353,1,75,0,True,True,True,False,False,False,False,False
+150,6153.4040602,203.0,Y,Planning to expand my small business operations. I am very confident in repayment.,6303.4040602,0.0321997127819818,0,82,0,True,False,False,True,False,False,True,False
+2534,0.0,210.0,Y,Planning to expand my small business operations. Business is booming right now.,2534.0,0.0828402366863905,1,79,0,True,False,True,True,False,True,False,False
+8566,0.0,174.0,N,I need to renovate my house immediately. Business is booming right now.,8566.0,0.0203104937551068,0,71,0,False,True,False,False,False,False,True,False
+150,0.0,276.0,N,I need to renovate my house immediately. I am very confident in repayment.,150.0,1.827814569536424,1,74,0,True,False,False,True,False,False,False,False
+1506,0.0,147.0,N,Buying a new car for daily commute. I am very confident in repayment.,1506.0,0.0975447909754479,0,69,0,True,False,False,False,True,False,False,False
+1866,0.0,9.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,1866.0,0.0048205677557579,1,77,1,True,True,False,False,False,False,False,False
+1780,326.51666588,57.0,Y,Planning to expand my small business operations. I am very confident in repayment.,2106.51666588,0.0270460494679881,1,82,0,True,False,False,False,False,True,False,False
+1723,568.05440284,95.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,2291.05440284,0.0414475327820705,0,74,1,True,False,False,True,False,True,False,False
+2537,717.49063713,139.0,N,I need to renovate my house immediately. Facing some financial stress currently.,3254.49063713,0.0426970971486315,1,80,0,False,False,False,False,False,True,False,False
+1529,0.0,168.0,N,Consolidating high-interest debts. Business is booming right now.,1529.0,0.1098039215686274,1,65,1,True,False,False,True,False,False,False,False
+5985,0.0,124.0,Y,I need to renovate my house immediately. I am very confident in repayment.,5985.0,0.0207150016705646,1,74,0,True,False,False,False,False,False,True,False
+1670,0.0,272.0,N,Consolidating high-interest debts. I might struggle slightly initially.,1670.0,0.1627767803710353,1,71,1,True,False,False,True,False,False,False,False
+7592,0.0,170.0,Y,Consolidating high-interest debts. I am very confident in repayment.,7592.0,0.0223890425391808,1,68,1,True,True,True,False,True,False,True,False
+150,0.0,70.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,150.0,0.4635761589403973,1,74,1,False,False,False,True,False,False,False,False
+3943,249.19020997,110.0,N,I need to renovate my house immediately. I might struggle slightly initially.,4192.19020997,0.026233009830667,1,77,1,True,True,False,False,False,True,False,False
+150,1386.59196412,262.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1536.59196412,0.1703963119695079,1,77,1,True,False,True,False,False,False,False,False
+715,0.0,318.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,715.0,0.4441340782122905,1,71,1,True,False,False,True,False,False,False,False
+150,0.0,179.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,1.185430463576159,1,66,0,False,True,False,False,True,False,False,False
+150,493.54459274,50.0,N,Planning to expand my small business operations. I am very confident in repayment.,643.54459274,0.0775741516773057,0,82,0,True,False,True,True,False,False,False,False
+4159,36.10658513,215.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,4195.10658513,0.0512379739737566,1,77,1,True,False,False,False,True,True,False,False
+3320,0.0,144.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,3320.0,0.043360433604336,1,80,0,False,False,False,True,False,True,False,False
+1541,0.0,147.0,N,I need to renovate my house immediately. I am very confident in repayment.,1541.0,0.0953307392996108,1,74,0,True,False,False,False,True,False,False,False
+1113,0.0,426.0,N,Planning to expand my small business operations. I might struggle slightly initially.,1113.0,0.3824057450628366,1,85,1,False,True,True,False,True,False,False,False
+150,0.0,181.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.1986754966887416,1,74,0,True,False,False,False,False,False,False,False
+1506,67.04951025,258.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1573.04951025,0.1639084401856095,1,74,1,True,True,False,False,False,False,False,False
+7134,0.0,283.0,N,I need to renovate my house immediately. Business is booming right now.,7134.0,0.0396636299929922,1,71,0,True,True,False,False,False,False,True,False
+150,0.0,417.0,N,Urgent medical expenses covered by loan. Business is booming right now.,150.0,2.76158940397351,1,71,1,True,False,False,False,False,False,False,False
+2247,0.0,163.0,N,I need to renovate my house immediately. I am very confident in repayment.,2247.0,0.072508896797153,1,74,0,True,False,False,False,False,True,False,False
+4360,0.0,79.0,Y,I need to renovate my house immediately. I am very confident in repayment.,4360.0,0.0181151112130245,1,74,0,True,False,False,False,False,True,False,False
+150,0.0,43.0,Y,Investment in a new startup opportunity. Business is booming right now.,150.0,0.2847682119205298,1,71,0,True,True,False,False,True,False,False,False
+3964,343.35111641,57.0,N,Consolidating high-interest debts. I might struggle slightly initially.,4307.35111641,0.0132301194725967,1,71,1,True,True,False,True,False,True,False,False
+150,0.0,103.0,Y,Planning to expand my small business operations. I am very confident in repayment.,150.0,0.6821192052980133,1,82,0,True,False,False,False,False,False,False,False
+286,0.0,158.0,N,Planning to expand my small business operations. Business is booming right now.,286.0,0.5505226480836237,1,79,0,True,False,False,False,False,False,False,False
+4892,0.0,351.0,N,Investment in a new startup opportunity. Business is booming right now.,4892.0,0.0717351318209687,1,71,0,True,False,False,False,False,True,False,False
+150,0.0,182.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,150.0,1.205298013245033,1,72,1,True,True,False,True,False,False,False,False
+1950,0.0,132.0,N,Investment in a new startup opportunity. Business is booming right now.,1950.0,0.0676576114812916,1,71,0,True,False,False,True,False,False,False,False
+150,2982.9624292,85.0,N,Investment in a new startup opportunity. Business is booming right now.,3132.9624292,0.0271222141044293,1,71,0,True,False,False,True,False,True,False,False
+150,127.09124404,119.0,N,Consolidating high-interest debts. Business is booming right now.,277.09124404,0.4279171047287031,1,65,1,False,False,False,False,True,False,False,False
+1131,545.48305644,318.0,Y,Buying a new car for daily commute. I am very confident in repayment.,1676.48305644,0.1895697239856885,1,69,0,True,False,False,False,True,False,False,False
+150,187.84216202,270.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,337.84216202,0.7968311806016141,1,77,1,True,True,False,False,False,False,False,False
+743,0.0,256.0,N,I need to renovate my house immediately. Business is booming right now.,743.0,0.3440860215053763,1,71,0,True,True,False,True,False,False,False,False
+2255,0.0,85.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,2255.0,0.037677304964539,0,88,0,True,False,False,False,True,True,False,False
+894,132.76934501,148.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,1026.76934501,0.1440011815088335,0,75,0,True,False,False,False,True,False,False,False
+270,0.0,176.0,N,Buying a new car for daily commute. Facing some financial stress currently.,270.0,0.6494464944649446,1,75,0,False,False,False,False,False,False,False,False
+150,352.92438537,210.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,502.92438537,0.4167291881416102,1,77,1,True,False,False,False,False,False,False,False
+1060,26.77827662,220.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1086.77827662,0.2022470982630717,1,71,1,True,False,True,True,False,False,False,False
+150,648.22468825,198.0,N,Consolidating high-interest debts. Business is booming right now.,798.22468825,0.247740094758015,1,65,1,True,False,False,True,False,False,False,False
+150,0.0,170.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,150.0,1.1258278145695364,1,75,0,True,False,False,False,False,False,False,False
+492,4817.96752934,126.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,5309.96752934,0.0237244907455983,1,77,1,False,False,True,False,True,False,True,False
+3672,0.0,160.0,N,I need to renovate my house immediately. Business is booming right now.,3672.0,0.0435611216988837,0,71,0,True,False,False,False,False,True,False,False
+150,0.0,94.0,Y,I need to renovate my house immediately. Business is booming right now.,150.0,0.6225165562913907,1,71,0,True,False,False,False,False,False,False,False
+467,0.0,198.0,N,I need to renovate my house immediately. Business is booming right now.,467.0,0.4230769230769231,1,71,0,True,True,False,True,False,False,False,False
+254,343.31441924,124.0,Y,Planning to expand my small business operations. Business is booming right now.,597.31441924,0.2072488912393406,1,79,0,True,False,True,False,True,False,False,False
+2726,0.0,229.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,2726.0,0.0839750641730839,0,74,0,True,True,False,False,True,True,False,False
+1563,0.0,268.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1563.0,0.1713554987212276,1,82,0,True,True,False,False,False,False,False,False
+2040,0.0,68.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2040.0,0.0333170014698677,1,77,1,False,False,False,False,True,True,False,False
+1470,0.0,235.0,Y,Consolidating high-interest debts. I am very confident in repayment.,1470.0,0.159755268524813,1,68,1,True,False,False,True,False,False,False,False
+1885,0.0,230.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1885.0,0.1219512195121951,1,74,0,True,False,False,False,False,False,False,False
+3165,0.0,9.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,3165.0,0.0028427037271004,1,71,1,True,False,False,True,False,True,False,False
+881,1846.9091994,206.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2727.9091994,0.0754880375079144,0,77,1,True,False,False,False,True,True,False,False
+2008,0.0,213.0,Y,Consolidating high-interest debts. Business is booming right now.,2008.0,0.1060228969636635,1,65,1,True,False,False,False,False,True,False,False
+2965,1770.94590641,279.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,4735.94590641,0.0588987093186897,1,74,1,True,True,False,True,False,True,False,False
+173,0.0,9.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,173.0,0.0517241379310344,1,71,1,True,False,False,True,False,False,False,False
+849,0.0,271.0,N,Investment in a new startup opportunity. Business is booming right now.,849.0,0.3188235294117647,1,71,0,True,False,False,False,False,False,False,False
+150,0.0,77.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,0.5099337748344371,1,65,1,True,False,False,False,True,False,False,False
+150,0.0,224.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,150.0,1.4834437086092715,1,71,1,True,True,False,False,True,False,False,False
+6718,0.0,118.0,Y,Consolidating high-interest debts. I am very confident in repayment.,6718.0,0.017562137222801,1,68,1,True,False,True,False,True,False,True,False
+741,0.0,233.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,741.0,0.3140161725067385,1,77,1,True,False,False,False,False,False,False,False
+2621,0.0,154.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,2621.0,0.0587337909992372,0,77,1,True,False,False,True,False,True,False,False
+4460,238.84719546,211.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,4698.84719546,0.044895076632241,1,85,1,True,False,True,True,False,True,False,False
+150,10742.12919028,129.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,10892.12919028,0.0118423271905291,1,71,1,True,False,False,False,True,False,False,True
+788,0.0,217.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,788.0,0.2750316856780735,1,80,1,True,True,False,False,False,False,False,False
+2116,0.0,192.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,2116.0,0.0906943788379782,1,77,1,False,True,False,False,True,True,False,False
+2570,0.0,200.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,2570.0,0.0777907429015947,1,74,1,True,False,False,True,False,True,False,False
+196,583.80499877,139.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,779.80499877,0.1780214012704405,1,74,0,True,False,False,True,False,False,False,False
+1522,0.0,88.0,N,Buying a new car for daily commute. Facing some financial stress currently.,1522.0,0.0577806959947472,0,75,0,True,False,False,True,False,False,False,False
+537,0.0,77.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,537.0,0.1431226765799256,1,72,1,True,False,True,True,False,False,False,False
+2484,0.0,187.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,2484.0,0.0752515090543259,1,80,1,True,False,False,False,True,True,False,False
+1050,74.51956423,57.0,Y,Consolidating high-interest debts. I am very confident in repayment.,1124.51956423,0.0506432778349751,1,68,1,True,False,False,False,False,False,False,False
+150,144.33163773,98.0,Y,Buying a new car for daily commute. Business is booming right now.,294.33163773,0.3318303475823141,1,66,0,True,True,True,False,True,False,False,False
+430,0.0,113.0,Y,Investment in a new startup opportunity. Business is booming right now.,430.0,0.2621809744779582,1,71,0,True,False,False,False,False,False,False,False
+3865,0.0,200.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3865.0,0.0517330574236937,1,69,0,True,False,False,False,False,True,False,False
+150,0.0,45.0,Y,I need to renovate my house immediately. I am very confident in repayment.,150.0,0.2980132450331126,1,74,0,True,False,False,False,True,False,False,False
+5526,0.0,220.0,Y,Investment in a new startup opportunity. Business is booming right now.,5526.0,0.0398045956214944,0,71,0,True,False,True,False,True,False,True,False
+286,0.0,220.0,Y,Investment in a new startup opportunity. Business is booming right now.,286.0,0.7665505226480837,1,71,0,True,False,False,False,False,False,False,False
+5340,363.44746014,133.0,N,Planning to expand my small business operations. I might struggle slightly initially.,5703.44746014,0.0233151415504028,0,85,1,True,False,False,False,True,False,True,False
+1256,0.0,56.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1256.0,0.0445505171042163,1,71,1,True,False,False,False,True,False,False,False
+1549,524.27825879,373.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,2073.27825879,0.1798215829623476,1,77,1,False,True,True,False,True,True,False,False
+1169,0.0,165.0,N,I need to renovate my house immediately. Facing some financial stress currently.,1169.0,0.141025641025641,1,80,0,True,False,False,True,False,False,False,False
+8618,0.0,210.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,8618.0,0.0243647754959972,1,71,1,True,False,False,True,False,False,True,False
+2040,0.0,393.0,Y,I need to renovate my house immediately. I am very confident in repayment.,2040.0,0.1925526702596766,1,74,0,True,False,False,False,False,True,False,False
+8007,0.0,132.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,8007.0,0.0164835164835164,1,77,1,True,False,False,False,True,False,True,False
+150,206.12598041,359.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,356.12598041,1.0052475028219692,1,80,0,True,False,True,True,False,False,False,False
+4507,0.0,97.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,4507.0,0.0215173025732031,1,80,0,True,False,False,False,False,True,False,False
+2009,50.01180817,177.0,N,Buying a new car for daily commute. Business is booming right now.,2059.01180817,0.0859218375826869,1,66,0,True,True,False,True,False,True,False,False
+13386,361.83174053,283.0,N,Buying a new car for daily commute. I am very confident in repayment.,13747.83174053,0.0205835670507006,0,69,0,True,True,False,False,True,False,False,True
+11201,0.0,264.0,Y,Buying a new car for daily commute. I am very confident in repayment.,11201.0,0.0235672201392608,1,69,0,True,False,False,False,False,False,False,True
+2489,0.0,162.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,2489.0,0.0650602409638554,1,88,0,False,False,False,True,False,True,False,False
+150,0.0,225.0,Y,Investment in a new startup opportunity. Business is booming right now.,150.0,1.490066225165563,1,71,0,True,False,False,False,True,False,False,False
+2993,0.0,160.0,Y,Buying a new car for daily commute. I am very confident in repayment.,2993.0,0.053440213760855,1,69,0,False,False,False,False,False,True,False,False
+2534,0.0,600.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2534.0,0.2366863905325443,0,77,1,True,False,True,False,True,True,False,False
+3382,1301.33423507,44.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,4683.33423507,0.0093930103600608,1,77,1,False,False,True,False,False,True,False,False
+150,0.0,207.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,150.0,1.3708609271523178,0,77,1,True,False,False,False,True,False,False,False
+880,696.64736469,187.0,Y,Planning to expand my small business operations. Business is booming right now.,1576.64736469,0.118530924074243,1,79,0,True,False,False,True,False,False,False,False
+150,1686.3641948,148.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1836.3641948,0.0805501709562322,1,74,1,True,True,False,False,True,False,False,False
+3735,0.0,157.0,N,I need to renovate my house immediately. I am very confident in repayment.,3735.0,0.0420235546038543,1,74,0,True,True,True,False,True,True,False,False
+2346,2269.00237866,191.0,N,I need to renovate my house immediately. Business is booming right now.,4615.00237866,0.0413777949688679,1,71,0,False,False,True,True,False,True,False,False
+150,0.0,239.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,150.0,1.5827814569536425,1,74,1,True,True,False,False,False,False,False,False
+150,754.91337956,293.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,904.91337956,0.3234304808946628,1,77,1,True,False,False,False,False,False,False,False
+150,390.92228599,356.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,540.92228599,0.6569207600489219,1,80,1,True,False,False,False,True,False,False,False
+1613,1248.79325338,182.0,N,Planning to expand my small business operations. Business is booming right now.,2861.79325338,0.0635742730583562,1,79,0,False,False,False,False,True,True,False,False
+3678,0.0,226.0,Y,Planning to expand my small business operations. Business is booming right now.,3678.0,0.0614297363413971,1,79,0,False,False,True,False,True,True,False,False
+2507,0.0,271.0,Y,Consolidating high-interest debts. Business is booming right now.,2507.0,0.1080542264752791,1,65,1,False,False,False,True,False,True,False,False
+150,0.0,152.0,N,Buying a new car for daily commute. Business is booming right now.,150.0,1.0066225165562914,0,66,0,True,False,False,False,False,False,False,False
+6129,1567.78958871,192.0,Y,Planning to expand my small business operations. I am very confident in repayment.,7696.78958871,0.0249422250098388,1,82,0,False,True,False,False,False,False,True,False
+933,1706.65521805,230.0,N,Investment in a new startup opportunity. I am very confident in repayment.,2639.6552180500003,0.0870995949898541,1,74,0,True,False,True,False,True,True,False,False
+985,0.0,276.0,Y,I need to renovate my house immediately. I am very confident in repayment.,985.0,0.2799188640973631,1,74,0,True,False,False,False,True,False,False,False
+747,0.0,275.0,Y,I need to renovate my house immediately. I am very confident in repayment.,747.0,0.3676470588235294,1,74,0,True,False,False,False,False,False,False,False
+11050,0.0,206.0,N,Planning to expand my small business operations. I am very confident in repayment.,11050.0,0.0186408469821735,0,82,0,True,False,False,False,False,False,False,True
+150,374.6273216,299.0,Y,Planning to expand my small business operations. Business is booming right now.,524.6273216,0.5688440986854516,1,79,0,True,True,False,False,True,False,False,False
+4285,0.0,434.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,4285.0,0.1012599160055996,1,71,1,True,False,False,True,False,True,False,False
+2335,2440.77156811,182.0,N,Consolidating high-interest debts. Business is booming right now.,4775.77156811,0.0381010474134962,1,65,1,False,False,False,False,False,True,False,False
+2626,0.0,123.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,2626.0,0.0468214693566806,0,77,1,True,False,False,False,True,True,False,False
+2428,0.0,235.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,2428.0,0.0967476327706875,1,71,1,True,False,True,False,True,True,False,False
+802,208.43311287,164.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,1010.43311287,0.1621461645987054,0,74,1,True,False,False,True,False,False,False,False
+910,0.0,280.0,Y,Buying a new car for daily commute. Business is booming right now.,910.0,0.3073545554335894,1,66,0,False,False,False,False,True,False,False,False
+150,768.88382397,196.0,Y,Planning to expand my small business operations. Business is booming right now.,918.88382397,0.2130703844254055,0,79,0,True,True,False,False,True,False,False,False
+150,156.18228066,268.0,Y,I need to renovate my house immediately. I am very confident in repayment.,306.18228066,0.8724461561525799,1,74,0,True,False,False,True,False,False,False,False
+5775,0.0,63.0,N,Buying a new car for daily commute. Facing some financial stress currently.,5775.0,0.0109072022160664,1,75,0,True,False,False,False,False,False,True,False
+897,0.0,259.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,897.0,0.2884187082405345,0,74,1,True,False,False,False,True,False,False,False
+493,0.0,208.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,493.0,0.4210526315789473,1,80,0,True,False,False,False,False,False,False,False
+2260,0.0,167.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,2260.0,0.0738611233967271,1,74,1,True,False,False,False,True,True,False,False
+6292,5142.54126931,9.0,Y,Planning to expand my small business operations. I am very confident in repayment.,11434.54126931,0.0007870200271283,1,82,0,False,False,False,False,True,False,False,True
+150,3296.48955449,386.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,3446.48955449,0.1119655314103199,1,71,1,True,True,False,False,True,True,False,False
+639,0.0,242.0,N,Planning to expand my small business operations. Facing some financial stress currently.,639.0,0.378125,1,88,0,True,False,False,True,False,False,False,False
+150,0.0,332.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,2.198675496688742,1,74,0,False,False,False,False,False,False,False,False
+150,0.0,242.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,1.6026490066225163,1,65,1,True,False,False,False,False,False,False,False
+150,24.28530588,154.0,N,I need to renovate my house immediately. I might struggle slightly initially.,174.28530588,0.8785676541844764,1,77,1,True,False,False,True,False,False,False,False
+735,0.0,138.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,735.0,0.1875,1,80,1,True,True,False,False,True,False,False,False
+3688,0.0,238.0,Y,I need to renovate my house immediately. Business is booming right now.,3688.0,0.064516129032258,1,71,0,True,False,False,False,True,True,False,False
+3139,0.0,154.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,3139.0,0.0490445859872611,1,85,1,True,True,False,False,True,True,False,False
+150,31.18764261,121.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,181.18764261,0.6641504235225144,1,74,0,False,True,False,False,True,False,False,False
+150,0.0,199.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,150.0,1.3178807947019868,0,72,1,True,True,False,True,False,False,False,False
+14740,0.0,213.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,14740.0,0.0144494946068787,1,74,0,True,False,False,False,True,False,False,True
+303,0.0,236.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,303.0,0.7763157894736842,0,88,0,True,False,False,True,False,False,False,False
+2864,24.10831745,35.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2888.10831745,0.0121144644486337,0,72,1,True,False,False,True,False,True,False,False
+1052,0.0,234.0,Y,Consolidating high-interest debts. I am very confident in repayment.,1052.0,0.2222222222222222,0,68,1,True,True,True,False,False,False,False,False
+2576,236.22279381,119.0,N,Planning to expand my small business operations. Business is booming right now.,2812.22279381,0.042300240230471,1,79,0,True,False,False,True,False,True,False,False
+2286,0.0,195.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,2286.0,0.0852645386969829,1,85,1,False,False,False,False,False,True,False,False
+1474,2009.49337551,385.0,Y,Consolidating high-interest debts. Business is booming right now.,3483.49337551,0.1104895198555659,1,65,1,True,False,False,True,False,True,False,False
+150,0.0,203.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.3443708609271523,1,74,0,True,False,False,False,True,False,False,False
+415,0.0,244.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,415.0,0.5865384615384616,1,88,0,True,False,False,False,True,False,False,False
+3853,0.0,243.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,3853.0,0.063051375194603,1,74,1,True,False,False,False,True,True,False,False
+3401,0.0,213.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,3401.0,0.0626102292768959,1,80,1,True,True,False,False,True,True,False,False
+150,3.90915795,218.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,153.90915795,1.40727638626997,1,74,0,True,False,True,False,True,False,False,False
+8399,149.79244246,234.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,8548.79244246,0.0273690854573157,1,71,1,True,True,True,True,False,False,True,False
+7660,0.0,239.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,7660.0,0.031196971674716,1,71,1,False,False,False,False,True,False,True,False
+6669,0.0,174.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,6669.0,0.0260869565217391,1,77,1,True,False,False,True,False,False,True,False
+4573,0.0,176.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,4573.0,0.0384783559247923,1,85,1,True,False,False,False,True,True,False,False
+2664,0.0,164.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2664.0,0.0615384615384615,1,77,1,True,False,False,True,False,True,False,False
+6451,0.0,189.0,Y,Investment in a new startup opportunity. Business is booming right now.,6451.0,0.0292932424054556,1,71,0,True,False,True,False,False,False,True,False
+2887,0.0,134.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,2887.0,0.046398891966759,1,74,0,True,True,False,True,False,True,False,False
+5586,0.0,132.0,Y,I need to renovate my house immediately. I am very confident in repayment.,5586.0,0.0236262752819044,1,74,0,True,False,True,False,False,False,True,False
+837,0.0,125.0,N,Planning to expand my small business operations. Business is booming right now.,837.0,0.1491646778042959,1,79,0,False,True,False,True,False,False,False,False
+150,288.06751952,143.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,438.06751952,0.3256902267704322,1,77,1,True,True,False,False,True,False,False,False
+4061,8292.36870477,122.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,12353.36870477,0.0098750492975732,1,77,1,False,False,False,False,False,False,False,True
+1406,1924.71366633,138.0,Y,Investment in a new startup opportunity. Business is booming right now.,3330.71366633,0.0414201260434279,1,71,0,True,False,True,False,True,True,False,False
+3955,0.0,188.0,N,I need to renovate my house immediately. Facing some financial stress currently.,3955.0,0.0475227502527805,1,80,0,True,False,False,True,False,True,False,False
+412,0.0,221.0,N,I need to renovate my house immediately. I might struggle slightly initially.,412.0,0.5351089588377724,1,77,1,True,False,False,False,True,False,False,False
+5250,0.0,141.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,5250.0,0.0268520281851076,1,77,1,True,False,False,True,False,False,True,False
+4062,2765.36370706,9.0,Y,Planning to expand my small business operations. Business is booming right now.,6827.36370706,0.0013180317256233,1,79,0,True,False,False,True,False,False,True,False
+3094,0.0,173.0,N,Consolidating high-interest debts. Business is booming right now.,3094.0,0.0558966074313408,1,65,1,True,False,False,False,True,True,False,False
+771,0.0,363.0,N,Consolidating high-interest debts. I am very confident in repayment.,771.0,0.4702072538860103,1,68,1,False,False,True,False,False,False,False,False
+3232,0.0,407.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,3232.0,0.1258892669347355,1,72,1,True,True,False,False,True,True,False,False
+1228,0.0,229.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1228.0,0.1863303498779495,1,82,0,False,False,True,True,False,False,False,False
+387,0.0,151.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,387.0,0.3891752577319587,1,80,0,True,False,False,False,False,False,False,False
+4987,0.0,202.0,Y,Consolidating high-interest debts. Business is booming right now.,4987.0,0.0404971932638332,1,65,1,True,False,False,False,True,True,False,False
+4618,0.0,358.0,Y,Buying a new car for daily commute. I am very confident in repayment.,4618.0,0.0775059536696254,1,69,0,True,False,False,False,False,True,False,False
+4745,0.0,214.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,4745.0,0.0450906026127265,1,71,1,True,False,False,False,True,True,False,False
+150,0.0,270.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,150.0,1.7880794701986755,0,88,0,True,False,False,False,False,False,False,False
+1471,7.17609138,105.0,N,Buying a new car for daily commute. Facing some financial stress currently.,1478.17609138,0.0709854631993409,0,75,0,True,False,False,False,False,False,False,False
+4338,0.0,227.0,Y,Planning to expand my small business operations. Business is booming right now.,4338.0,0.0523162018898363,1,79,0,True,True,False,False,True,True,False,False
+3012,664.11443073,221.0,N,Planning to expand my small business operations. Facing some financial stress currently.,3676.11443073,0.06010147471971,1,88,0,False,False,False,False,True,True,False,False
+4239,0.0,225.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,4239.0,0.053066037735849,1,77,1,True,False,True,True,False,True,False,False
+2492,0.0,197.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,2492.0,0.0790212595266746,1,71,1,True,True,True,True,False,True,False,False
+150,0.0,9.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,0.0596026490066225,1,80,0,True,True,False,False,False,False,False,False
+568,0.0,150.0,Y,I need to renovate my house immediately. Business is booming right now.,568.0,0.2636203866432337,1,71,0,True,True,False,False,True,False,False,False
+584,2880.95561588,101.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,3464.95561588,0.0291405924349542,1,77,1,True,False,False,False,True,True,False,False
+643,428.76146653,236.0,Y,Investment in a new startup opportunity. Business is booming right now.,1071.76146653,0.2199929875961854,1,71,0,True,True,True,False,True,False,False,False
+5272,0.0,252.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,5272.0,0.0477906315190593,1,74,0,True,False,False,False,True,False,True,False
+567,0.0,134.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,567.0,0.2359154929577464,1,80,1,True,False,False,False,True,False,False,False
+150,8436.23705295,243.0,N,Buying a new car for daily commute. Facing some financial stress currently.,8586.23705295,0.0282978097031246,0,75,0,False,False,False,False,False,False,True,False
+696,0.0,148.0,N,Planning to expand my small business operations. I might struggle slightly initially.,696.0,0.212338593974175,0,85,1,False,False,False,False,False,False,False,False
+3377,0.0,215.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,3377.0,0.0636471284783895,1,80,0,True,True,False,False,True,True,False,False
+5224,403.14014179,214.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,5627.14014179,0.0380232180806959,1,77,1,True,True,True,True,False,False,True,False
+3761,167.15899084,179.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,3928.15899084,0.0455568228257753,1,88,0,True,True,True,True,False,True,False,False
+652,714.78879344,168.0,Y,Buying a new car for daily commute. Business is booming right now.,1366.78879344,0.1228259807404026,0,66,0,True,False,False,False,True,False,False,False
+150,2896.30189136,244.0,N,Consolidating high-interest debts. Facing some financial stress currently.,3046.30189136,0.0800708327231417,1,74,1,True,False,False,True,False,True,False,False
+4375,0.0,400.0,Y,Planning to expand my small business operations. I am very confident in repayment.,4375.0,0.0914076782449725,1,82,0,False,False,True,False,True,True,False,False
+2110,298.42607111,163.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2408.42607111,0.0676509654952423,1,72,1,True,False,False,False,True,True,False,False
+2338,0.0,249.0,Y,Buying a new car for daily commute. I am very confident in repayment.,2338.0,0.1064557503206498,0,69,0,False,False,False,True,False,True,False,False
+2577,0.0,126.0,Y,Consolidating high-interest debts. I am very confident in repayment.,2577.0,0.0488750969743987,1,68,1,True,False,False,False,False,True,False,False
+2680,278.54316538,81.0,Y,Consolidating high-interest debts. I am very confident in repayment.,2958.54316538,0.0273690889011242,1,68,1,True,False,True,False,True,True,False,False
+299,0.0,296.0,N,Planning to expand my small business operations. Business is booming right now.,299.0,0.9866666666666668,0,79,0,True,True,True,False,True,False,False,False
+2977,0.0,118.0,Y,I need to renovate my house immediately. Business is booming right now.,2977.0,0.0396239086635325,0,71,0,True,True,False,False,True,True,False,False
+156,0.0,238.0,N,Planning to expand my small business operations. Business is booming right now.,156.0,1.515923566878981,1,79,0,True,True,False,False,True,False,False,False
+7527,0.0,225.0,N,I need to renovate my house immediately. I am very confident in repayment.,7527.0,0.0298884165781083,1,74,0,True,False,False,True,False,False,True,False
+2156,0.0,132.0,Y,Buying a new car for daily commute. Business is booming right now.,2156.0,0.0611961057023643,1,66,0,True,False,False,True,False,True,False,False
+150,4756.91012409,183.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,4906.91012409,0.0372867463692463,1,85,1,True,False,False,False,True,True,False,False
+703,0.0,95.0,Y,I need to renovate my house immediately. I am very confident in repayment.,703.0,0.1349431818181818,0,74,0,True,False,False,True,False,False,False,False
+8572,714.14067748,159.0,N,I need to renovate my house immediately. I might struggle slightly initially.,9286.14067748,0.0171204470268822,1,77,1,True,False,False,False,False,False,True,False
+621,1050.25455002,354.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,1671.25455002,0.2116902597130121,1,77,1,True,True,False,False,False,False,False,False
+2964,0.0,469.0,N,Urgent medical expenses covered by loan. Business is booming right now.,2964.0,0.1581787521079258,1,71,1,True,False,False,False,False,True,False,False
+150,0.0,84.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,150.0,0.5562913907284768,1,71,1,True,False,True,False,True,False,False,False
+1262,0.0,248.0,N,Planning to expand my small business operations. I am very confident in repayment.,1262.0,0.1963578780680918,1,82,0,True,True,False,True,False,False,False,False
+150,0.0,205.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,150.0,1.3576158940397351,1,74,1,True,False,False,False,True,False,False,False
+150,1609.51429134,243.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,1759.51429134,0.1380278485640935,1,88,0,True,False,False,False,False,False,False,False
+150,768.38545486,66.0,N,Urgent medical expenses covered by loan. Business is booming right now.,918.38545486,0.0717870830467403,1,71,1,True,True,False,False,True,False,False,False
+4509,0.0,244.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,4509.0,0.0541019955654102,0,74,1,True,True,False,True,False,True,False,False
+9579,0.0,600.0,Y,Consolidating high-interest debts. Business is booming right now.,9579.0,0.0626304801670146,1,65,1,True,False,False,False,True,False,True,False
+1267,0.0,189.0,N,Investment in a new startup opportunity. Business is booming right now.,1267.0,0.1490536277602523,1,71,0,True,False,True,False,False,False,False,False
+1022,0.0,56.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,1022.0,0.0547409579667644,1,77,1,True,False,True,False,False,False,False,False
+502,1640.30700677,192.0,N,Consolidating high-interest debts. I am very confident in repayment.,2142.30700677,0.0895811936383986,1,68,1,True,True,False,False,True,True,False,False
+569,0.0,222.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,569.0,0.3894736842105263,1,85,1,True,False,False,True,False,False,False,False
+10396,133.31410697,108.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,10529.31410697,0.0102561043196721,1,74,0,True,True,False,True,False,False,False,True
+1111,0.0,243.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,1111.0,0.2185251798561151,0,88,0,False,True,False,False,True,False,False,False
+150,1729.3637979,231.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1879.3637979,0.1228485680579375,1,71,1,True,False,False,True,False,False,False,False
+4792,0.0,174.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,4792.0,0.0363029417901105,0,77,1,True,False,False,True,False,True,False,False
+597,0.0,215.0,N,I need to renovate my house immediately. I might struggle slightly initially.,597.0,0.3595317725752508,1,77,1,True,False,False,False,False,False,False,False
+690,2962.81278537,181.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,3652.81278537,0.0495372945008925,1,72,1,True,True,False,True,False,True,False,False
+164,85.19211588,82.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,249.19211588,0.3277481375125736,1,71,1,True,False,False,True,False,False,False,False
+450,232.18762026,283.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,682.18762026,0.4142346723031939,1,77,1,True,False,False,False,True,False,False,False
+150,0.0,250.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,1.6556291390728477,1,77,1,True,True,True,False,True,False,False,False
+150,0.0,164.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,1.086092715231788,1,80,0,True,False,False,False,True,False,False,False
+4175,0.0,115.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,4175.0,0.0275383141762452,1,74,0,True,False,False,True,False,True,False,False
+313,1961.60192689,259.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2274.60192689,0.1138160400285685,1,72,1,True,False,False,True,False,True,False,False
+1019,848.61321907,186.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,1867.61321907,0.0995390582180358,0,88,0,True,False,False,False,False,False,False,False
+3772,120.0473503,160.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,3892.0473503,0.0410989093126931,1,77,1,True,False,False,True,False,True,False,False
+150,0.0,196.0,Y,I need to renovate my house immediately. I am very confident in repayment.,150.0,1.2980132450331126,1,74,0,True,True,False,False,False,False,False,False
+596,0.0,412.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,596.0,0.6901172529313233,1,80,1,True,False,False,True,False,False,False,False
+150,0.0,135.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,150.0,0.8940397350993378,0,88,0,True,False,True,False,True,False,False,False
+3309,0.0,191.0,Y,I need to renovate my house immediately. I am very confident in repayment.,3309.0,0.0577039274924471,1,74,0,False,True,False,True,False,True,False,False
+1290,0.0,118.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1290.0,0.09140201394268,1,82,0,True,True,False,True,False,False,False,False
+1931,1271.38333321,325.0,Y,Consolidating high-interest debts. Business is booming right now.,3202.3833332100003,0.1014552322323312,1,65,1,False,False,False,True,False,True,False,False
+3387,0.0,177.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,3387.0,0.0522432113341204,1,77,1,True,True,False,False,True,True,False,False
+6323,0.0,214.0,Y,Consolidating high-interest debts. Business is booming right now.,6323.0,0.0338393421884882,0,65,1,True,False,False,True,False,False,True,False
+5531,0.0,176.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,5531.0,0.0318148951554591,1,80,1,True,False,False,True,False,False,True,False
+150,0.0,223.0,Y,Consolidating high-interest debts. I am very confident in repayment.,150.0,1.47682119205298,1,68,1,True,True,False,True,False,False,False,False
+150,0.0,167.0,Y,Consolidating high-interest debts. I am very confident in repayment.,150.0,1.1059602649006623,1,68,1,True,True,False,False,False,False,False,False
+150,3202.02358351,225.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,3352.02358351,0.067103613916269,1,74,1,False,False,False,True,False,True,False,False
+942,0.0,174.0,N,Buying a new car for daily commute. Facing some financial stress currently.,942.0,0.1845174973488865,1,75,0,True,False,False,True,False,False,False,False
+450,0.0,200.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,450.0,0.4434589800443459,0,74,1,True,True,False,False,False,False,False,False
+150,0.0,203.0,Y,Consolidating high-interest debts. I am very confident in repayment.,150.0,1.3443708609271523,1,68,1,True,True,False,False,False,False,False,False
+5716,3590.50210932,225.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,9306.50210932,0.0241740477044531,1,80,0,True,False,True,True,False,False,True,False
+8888,0.0,231.0,N,Buying a new car for daily commute. I might struggle slightly initially.,8888.0,0.0259871751603104,0,72,1,True,True,True,True,False,False,True,False
+6561,3480.9041896,406.0,N,Investment in a new startup opportunity. Business is booming right now.,10041.9041896,0.0404265531498783,0,71,0,True,False,False,True,False,False,False,True
+2981,0.0,131.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,2981.0,0.0439302481556002,1,71,1,True,True,False,True,False,True,False,False
+1108,0.0,153.0,N,Investment in a new startup opportunity. Business is booming right now.,1108.0,0.1379621280432822,1,71,0,True,False,False,False,False,False,False,False
+3148,0.0,145.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,3148.0,0.0460463639250555,1,71,1,False,False,False,False,False,True,False,False
+2196,0.0,414.0,Y,Buying a new car for daily commute. Business is booming right now.,2196.0,0.1884387801547564,0,66,0,True,False,False,False,True,True,False,False
+150,0.0,119.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,150.0,0.7880794701986755,1,85,1,True,False,False,False,True,False,False,False
+2362,0.0,213.0,N,I need to renovate my house immediately. Business is booming right now.,2362.0,0.0901396529834955,1,71,0,True,False,False,False,True,True,False,False
+658,0.0,227.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,658.0,0.3444613050075872,1,77,1,True,True,False,False,False,False,False,False
+1245,1825.9100094,169.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,3070.9100094,0.0550146324218035,0,71,1,False,True,False,True,False,True,False,False
+7129,6003.21893033,133.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,13132.21893033,0.0101269917683964,0,75,0,True,False,False,False,True,False,False,True
+4717,0.0,217.0,Y,Planning to expand my small business operations. Business is booming right now.,4717.0,0.0459940652818991,1,79,0,True,False,True,False,True,True,False,False
+3031,0.0,269.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,3031.0,0.0887203166226913,1,77,1,True,False,True,False,False,True,False,False
+8087,289.91847219,164.0,N,Consolidating high-interest debts. I might struggle slightly initially.,8376.91847219,0.0195752680745686,0,71,1,True,True,False,False,False,False,True,False
+6572,244.71312637,259.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,6816.71312637,0.0379892781053257,1,74,1,True,True,False,True,False,False,True,False
+154,1295.96206223,206.0,N,Buying a new car for daily commute. Business is booming right now.,1449.96206223,0.141974766510019,0,66,0,True,False,False,False,True,False,False,False
+845,2874.50178984,267.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,3719.50178984,0.0717645132517144,0,74,0,True,False,False,False,True,True,False,False
+678,0.0,112.0,N,Planning to expand my small business operations. Facing some financial stress currently.,678.0,0.1649484536082474,1,88,0,True,False,False,True,False,False,False,False
+2575,0.0,253.0,Y,Investment in a new startup opportunity. Business is booming right now.,2575.0,0.0982142857142857,0,71,0,False,False,False,False,False,True,False,False
+1165,1928.89475025,421.0,N,Consolidating high-interest debts. Business is booming right now.,3093.89475025,0.1360304740463282,0,65,1,True,False,False,False,False,True,False,False
+150,0.0,217.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.4370860927152318,1,74,0,False,False,False,False,True,False,False,False
+4220,0.0,184.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,4220.0,0.0435915659796256,1,88,0,True,True,False,False,True,True,False,False
+150,86.28337141,169.0,Y,Planning to expand my small business operations. Business is booming right now.,236.28337141,0.7122285855757936,1,79,0,True,False,False,True,False,False,False,False
+282,99.58469086,185.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,381.58469086,0.4835530652942342,1,80,0,True,False,True,False,False,False,False,False
+150,0.0,258.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,1.7086092715231789,1,77,1,True,True,True,False,True,False,False,False
+1484,1247.86066363,132.0,N,Buying a new car for daily commute. Business is booming right now.,2731.86066363,0.0483010355254143,1,66,0,True,False,True,False,True,True,False,False
+413,0.0,221.0,N,Buying a new car for daily commute. Facing some financial stress currently.,413.0,0.533816425120773,1,75,0,True,False,False,True,False,False,False,False
+894,0.0,181.0,N,I need to renovate my house immediately. I am very confident in repayment.,894.0,0.2022346368715084,0,74,0,False,False,False,False,True,False,False,False
+989,0.0,41.0,Y,I need to renovate my house immediately. I am very confident in repayment.,989.0,0.0414141414141414,1,74,0,False,False,False,False,True,False,False,False
+150,0.0,158.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,150.0,1.0463576158940395,1,72,1,True,False,False,True,False,False,False,False
+3379,6468.54233228,229.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,9847.54233228,0.0232521719736554,1,72,1,True,False,False,False,True,False,True,False
+3251,0.0,158.0,N,Consolidating high-interest debts. I am very confident in repayment.,3251.0,0.0485854858548585,1,68,1,True,False,False,False,False,True,False,False
+150,0.0,221.0,N,I need to renovate my house immediately. I might struggle slightly initially.,150.0,1.4635761589403973,1,77,1,True,False,False,False,False,False,False,False
+369,0.0,324.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,369.0,0.8756756756756757,1,80,1,True,False,False,False,True,False,False,False
+3392,0.0,262.0,Y,Planning to expand my small business operations. Business is booming right now.,3392.0,0.0772178013557323,1,79,0,False,True,False,False,False,True,False,False
+1630,0.0,56.0,N,Buying a new car for daily commute. Business is booming right now.,1630.0,0.0343347639484978,1,66,0,True,False,False,True,False,False,False,False
+2202,0.0,128.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,2202.0,0.0581025873808443,1,77,1,True,True,True,False,False,True,False,False
+3213,0.0,194.0,N,Consolidating high-interest debts. I am very confident in repayment.,3213.0,0.0603609209707529,1,68,1,True,False,False,False,False,True,False,False
+1419,0.0,455.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,1419.0,0.3204225352112676,1,85,1,True,False,False,False,True,False,False,False
+1230,0.0,79.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1230.0,0.0641754670999187,1,71,1,True,False,False,False,False,False,False,False
+150,106.58093559,143.0,Y,Investment in a new startup opportunity. Business is booming right now.,256.58093559,0.555165310167278,1,71,0,True,False,False,False,False,False,False,False
+9771,0.0,356.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,9771.0,0.0364306180925092,1,74,1,False,False,False,False,True,False,True,False
+1014,0.0,228.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,1014.0,0.2246305418719212,1,77,1,True,True,True,True,False,False,False,False
+8005,0.0,271.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,8005.0,0.0338496127904071,1,71,1,True,False,False,False,False,False,True,False
+821,0.0,208.0,Y,Buying a new car for daily commute. I am very confident in repayment.,821.0,0.2530413625304136,1,69,0,True,False,False,True,False,False,False,False
+6760,0.0,269.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,6760.0,0.0397870137553616,1,85,1,True,False,False,False,False,False,True,False
+8289,8077.88833338,47.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,16366.88833338,0.0028714760904221,1,77,1,True,False,False,False,True,False,False,True
+1677,0.0,101.0,N,Investment in a new startup opportunity. I am very confident in repayment.,1677.0,0.0601907032181168,1,74,0,True,True,False,False,True,False,False,False
+9768,0.0,360.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,9768.0,0.0368512642030914,1,77,1,True,False,True,False,False,False,True,False
+1270,0.0,14.0,Y,Buying a new car for daily commute. Business is booming right now.,1270.0,0.011014948859166,1,66,0,True,True,False,False,False,False,False,False
+3269,0.0,465.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,3269.0,0.1422018348623853,1,80,0,True,True,False,False,True,True,False,False
+603,0.0,363.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,603.0,0.6009933774834437,1,80,1,True,True,False,False,False,False,False,False
+2958,0.0,151.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,2958.0,0.0510307536329841,1,88,0,True,True,True,False,False,True,False,False
+8235,0.0,194.0,Y,Buying a new car for daily commute. I am very confident in repayment.,8235.0,0.0235551238465274,1,69,0,True,False,False,False,True,False,True,False
+3177,133.33290277,224.0,N,Investment in a new startup opportunity. Business is booming right now.,3310.33290277,0.0676464754759689,1,71,0,False,False,False,False,False,True,False,False
+3971,406.20071522,84.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,4377.20071522,0.0191859637014789,0,75,0,True,True,False,False,False,True,False,False
+150,0.0,126.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,0.8344370860927153,1,80,0,True,False,False,False,False,False,False,False
+3172,0.0,59.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,3172.0,0.0185943901670343,1,74,1,True,False,False,False,False,True,False,False
+1427,0.0,250.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1427.0,0.1750700280112044,1,77,1,False,False,False,False,False,False,False,False
+150,0.0,126.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,0.8344370860927153,1,77,1,True,True,False,True,False,False,False,False
+150,0.0,211.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,150.0,1.3973509933774837,1,80,0,True,False,False,True,False,False,False,False
+150,0.0,155.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,1.0264900662251657,0,66,0,True,True,False,True,False,False,False,False
+4559,180.38965811,160.0,N,Planning to expand my small business operations. I might struggle slightly initially.,4739.38965811,0.0337524995917302,1,85,1,False,False,True,True,False,True,False,False
+150,37.98893482,225.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,187.98893482,1.1905458920878,1,80,0,True,False,False,False,False,False,False,False
+9989,0.0,100.0,N,Investment in a new startup opportunity. Business is booming right now.,9989.0,0.01001001001001,0,71,0,True,False,False,False,False,False,True,False
+3231,0.0,111.0,Y,Planning to expand my small business operations. Business is booming right now.,3231.0,0.0343440594059406,1,79,0,True,False,False,False,False,True,False,False
+1084,0.0,201.0,Y,I need to renovate my house immediately. I am very confident in repayment.,1084.0,0.1852534562211981,1,74,0,True,False,False,True,False,False,False,False
+4310,0.0,68.0,Y,Planning to expand my small business operations. I am very confident in repayment.,4310.0,0.0157736024124333,1,82,0,True,False,False,False,True,True,False,False
+6043,0.0,199.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,6043.0,0.0329252150893448,1,74,1,False,False,False,False,True,False,True,False
+3759,0.0,333.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,3759.0,0.088563829787234,1,88,0,True,False,False,False,False,True,False,False
+313,0.0,226.0,N,Consolidating high-interest debts. Business is booming right now.,313.0,0.7197452229299363,1,65,1,True,False,True,False,False,False,False,False
+2213,795.86906386,224.0,N,Planning to expand my small business operations. I am very confident in repayment.,3008.86906386,0.0744218420294774,0,82,0,False,True,False,True,False,True,False,False
+356,0.0,217.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,356.0,0.6078431372549019,1,77,1,True,True,False,True,False,False,False,False
+979,610.7523617,49.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1589.7523617000002,0.0308030345764408,1,71,1,True,True,False,False,False,False,False,False
+1125,0.0,207.0,N,Buying a new car for daily commute. I might struggle slightly initially.,1125.0,0.1838365896980461,1,72,1,True,False,True,False,True,False,False,False
+16274,0.0,9.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,16274.0,0.000552995391705,1,74,1,True,False,False,False,False,False,False,True
+150,0.0,213.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,150.0,1.4105960264900663,1,74,1,True,False,True,False,False,False,False,False
+10393,0.0,216.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,10393.0,0.0207812199345776,0,74,1,True,False,False,False,False,False,False,True
+1110,0.0,148.0,Y,Planning to expand my small business operations. Business is booming right now.,1110.0,0.1332133213321332,0,79,0,True,False,False,True,False,False,False,False
+2841,0.0,445.0,Y,Planning to expand my small business operations. I am very confident in repayment.,2841.0,0.1565798733286418,1,82,0,True,False,True,False,False,True,False,False
+1250,0.0,240.0,Y,I need to renovate my house immediately. Business is booming right now.,1250.0,0.1918465227817745,0,71,0,True,False,True,False,True,False,False,False
+3725,37.79611865,137.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,3762.79611865,0.0363994211379173,0,75,0,True,True,True,True,False,True,False,False
+3629,0.0,131.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,3629.0,0.0360881542699724,0,80,0,True,True,False,False,False,True,False,False
+150,0.0,99.0,N,I need to renovate my house immediately. I might struggle slightly initially.,150.0,0.6556291390728477,1,77,1,True,False,True,False,False,False,False,False
+4586,0.0,184.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,4586.0,0.040113363854371,1,77,1,True,False,False,True,False,True,False,False
+1189,321.26490264,221.0,N,Consolidating high-interest debts. I might struggle slightly initially.,1510.26490264,0.1462351170955795,0,71,1,True,False,False,False,False,False,False,False
+150,21.26516503,104.0,Y,Investment in a new startup opportunity. Business is booming right now.,171.26516503,0.6037204328680635,1,71,0,True,True,False,True,False,False,False,False
+150,5849.55644221,180.0,N,Buying a new car for daily commute. I am very confident in repayment.,5999.55644221,0.0299972180469493,1,69,0,False,False,False,False,False,False,True,False
+1858,0.0,160.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,1858.0,0.0860677783754706,1,71,1,True,False,False,False,False,False,False,False
+3194,3995.57910831,182.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,7189.579108309999,0.0253108960013619,1,85,1,True,False,False,False,False,False,True,False
+401,3027.84891494,107.0,N,I need to renovate my house immediately. I am very confident in repayment.,3428.84891494,0.031196709433445,0,74,0,True,True,False,False,True,True,False,False
+15308,0.0,244.0,N,Buying a new car for daily commute. I am very confident in repayment.,15308.0,0.0159383369259912,0,69,0,True,False,False,False,False,False,False,True
+2735,0.0,209.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,2735.0,0.0763888888888889,1,77,1,True,True,False,True,False,True,False,False
+1373,0.0,129.0,N,Buying a new car for daily commute. Facing some financial stress currently.,1373.0,0.093886462882096,1,75,0,True,False,False,False,True,False,False,False
+150,0.0,290.0,Y,Consolidating high-interest debts. I am very confident in repayment.,150.0,1.9205298013245036,1,68,1,True,True,False,False,True,False,False,False
+634,0.0,365.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,634.0,0.5748031496062992,1,77,1,True,False,False,False,False,False,False,False
+1043,2517.06151443,197.0,Y,Consolidating high-interest debts. Business is booming right now.,3560.06151443,0.0553205832591557,1,65,1,True,False,False,False,True,True,False,False
+1643,284.01370893,159.0,N,Planning to expand my small business operations. Business is booming right now.,1927.01370893,0.0824682932821266,1,79,0,True,False,False,False,False,False,False,False
+1674,46.09714939,113.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1720.09714939,0.0656557940613927,1,74,1,True,False,False,True,False,False,False,False
+2951,956.48017466,192.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,3907.48017466,0.0491239539207083,1,85,1,True,True,False,False,False,True,False,False
+4632,131.81073613,142.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,4763.81073613,0.0298018133067197,1,75,0,True,False,False,True,False,True,False,False
+150,135.16455891,256.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,285.16455891,0.8945901650962764,1,72,1,True,False,False,False,False,False,False,False
+150,938.94367501,413.0,Y,I need to renovate my house immediately. Business is booming right now.,1088.94367501,0.3789186629265139,1,71,0,True,True,False,True,False,False,False,False
+6704,0.0,234.0,Y,Buying a new car for daily commute. I am very confident in repayment.,6704.0,0.0348993288590604,1,69,0,True,False,False,False,False,False,True,False
+150,1251.39901782,161.0,Y,Investment in a new startup opportunity. Business is booming right now.,1401.39901782,0.1148032749268971,1,71,0,True,False,True,False,True,False,False,False
+150,0.0,164.0,Y,Buying a new car for daily commute. I am very confident in repayment.,150.0,1.086092715231788,1,69,0,True,False,False,False,True,False,False,False
+6862,0.0,260.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,6862.0,0.0378843071543057,1,80,1,True,False,False,False,True,False,True,False
+2375,0.0,171.0,N,Planning to expand my small business operations. Facing some financial stress currently.,2375.0,0.0719696969696969,1,88,0,True,False,False,False,True,True,False,False
+1039,0.0,234.0,N,Consolidating high-interest debts. I might struggle slightly initially.,1039.0,0.225,1,71,1,True,False,True,False,True,False,False,False
+7141,278.20358852,179.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,7419.20358852,0.0241233273271552,0,80,0,False,True,False,False,True,False,True,False
+150,0.0,35.0,Y,Consolidating high-interest debts. Business is booming right now.,150.0,0.2317880794701986,0,65,1,True,False,False,False,True,False,False,False
+150,0.0,221.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,150.0,1.4635761589403973,1,77,1,False,False,False,False,True,False,False,False
+772,0.0,139.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,772.0,0.1798188874514877,1,74,1,True,False,False,False,False,False,False,False
+754,0.0,178.0,Y,Buying a new car for daily commute. Business is booming right now.,754.0,0.2357615894039735,0,66,0,True,False,False,False,True,False,False,False
+150,0.0,104.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,150.0,0.6887417218543046,1,77,1,True,False,False,True,False,False,False,False
+3157,0.0,191.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,3157.0,0.0604813172894236,1,80,0,True,False,False,False,False,True,False,False
+2828,0.0,89.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,2828.0,0.0314598798161894,0,80,0,True,False,False,True,False,True,False,False
+150,2994.15577126,98.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,3144.15577126,0.0311590290361801,0,75,0,True,True,False,False,True,True,False,False
+1876,0.0,107.0,Y,Consolidating high-interest debts. Business is booming right now.,1876.0,0.0570058604155567,0,65,1,True,False,False,False,False,False,False,False
+11455,221.10540201,181.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,11676.10540201,0.0155004167358842,0,74,1,True,False,True,False,False,False,False,True
+791,249.71472598,278.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,1040.71472598,0.2668676875412984,1,74,1,True,False,True,True,False,False,False,False
+2627,1439.48718494,233.0,Y,Planning to expand my small business operations. I am very confident in repayment.,4066.48718494,0.0572835240545292,0,82,0,False,False,False,True,False,True,False,False
+1463,0.0,178.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,1463.0,0.1215846994535519,1,80,1,True,True,False,True,False,False,False,False
+998,0.0,176.0,N,Buying a new car for daily commute. Business is booming right now.,998.0,0.1761761761761761,1,66,0,True,False,False,False,True,False,False,False
+7824,0.0,348.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,7824.0,0.0444728434504792,1,74,0,True,False,False,False,False,False,True,False
+150,31.59195534,286.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,181.59195534,1.566334066949699,0,80,0,False,False,False,False,True,False,False,False
+1082,5604.12035223,175.0,N,Consolidating high-interest debts. I might struggle slightly initially.,6686.12035223,0.0261697099472183,1,71,1,True,True,True,False,False,False,True,False
+2478,0.0,182.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2478.0,0.0734167002823719,1,72,1,True,False,True,True,False,True,False,False
+318,0.0,160.0,Y,I need to renovate my house immediately. I am very confident in repayment.,318.0,0.5015673981191222,1,74,0,True,False,False,False,True,False,False,False
+414,0.0,343.0,Y,Buying a new car for daily commute. I am very confident in repayment.,414.0,0.8265060240963855,1,69,0,False,False,False,False,True,False,False,False
+13329,0.0,199.0,Y,Buying a new car for daily commute. I am very confident in repayment.,13329.0,0.0149287321830457,1,69,0,True,False,False,False,True,False,False,True
+150,0.0,190.0,Y,Buying a new car for daily commute. I am very confident in repayment.,150.0,1.2582781456953642,0,69,0,True,True,False,False,True,False,False,False
+7595,624.14899102,63.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,8219.14899102,0.0076640946616446,0,74,1,True,False,False,True,False,False,True,False
+2949,1462.7885128,202.0,N,Buying a new car for daily commute. I am very confident in repayment.,4411.7885128,0.0457760437451436,1,69,0,True,False,False,False,False,True,False,False
+549,2716.79630788,222.0,Y,Planning to expand my small business operations. I am very confident in repayment.,3265.79630788,0.0679564867465115,0,82,0,True,False,False,True,False,True,False,False
+150,0.0,176.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,1.1655629139072847,1,66,0,True,True,False,True,False,False,False,False
+150,0.0,197.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,150.0,1.304635761589404,1,85,1,True,False,False,True,False,False,False,False
+150,4240.56817896,182.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,4390.56817896,0.041443054640928,1,77,1,True,False,False,False,True,True,False,False
+6369,0.0,280.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,6369.0,0.0439560439560439,1,80,0,False,False,True,True,False,False,True,False
+3432,427.01823247,71.0,Y,Consolidating high-interest debts. Business is booming right now.,3859.01823247,0.0183936955019426,0,65,1,True,False,True,True,False,True,False,False
+8288,0.0,269.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,8288.0,0.0324526480878272,1,75,0,True,False,False,False,True,False,True,False
+459,0.0,298.0,Y,I need to renovate my house immediately. Business is booming right now.,459.0,0.6478260869565218,1,71,0,True,False,False,False,True,False,False,False
+8665,0.0,175.0,N,Buying a new car for daily commute. Facing some financial stress currently.,8665.0,0.0201938610662358,1,75,0,True,False,False,True,False,False,True,False
+2802,1159.39023002,232.0,N,Consolidating high-interest debts. I am very confident in repayment.,3961.39023002,0.0585505178773946,0,68,1,False,False,False,True,False,True,False,False
+3455,0.0,355.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,3455.0,0.1027199074074074,1,77,1,True,False,False,True,False,True,False,False
+3676,2924.32034767,254.0,Y,Consolidating high-interest debts. I am very confident in repayment.,6600.32034767,0.0384771510277715,1,68,1,False,True,False,True,False,False,True,False
+798,0.0,196.0,Y,Planning to expand my small business operations. Business is booming right now.,798.0,0.2453066332916145,1,79,0,True,False,False,False,False,False,False,False
+2608,0.0,176.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2608.0,0.0674587964737447,0,77,1,True,True,True,False,True,True,False,False
+1281,0.0,110.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1281.0,0.0858034321372854,0,74,0,True,True,False,False,False,False,False,False
+10178,39.8776374,121.0,N,Buying a new car for daily commute. I am very confident in repayment.,10217.8776374,0.0118408306952568,1,69,0,True,False,False,False,False,False,False,True
+150,1376.74636959,57.0,Y,Planning to expand my small business operations. I am very confident in repayment.,1526.74636959,0.0373098579283791,1,82,0,True,False,False,False,False,False,False,False
+1203,0.0,239.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,1203.0,0.1985049833887043,0,77,1,True,False,False,False,True,False,False,False
+2228,4172.96177764,265.0,N,Planning to expand my small business operations. I am very confident in repayment.,6400.96177764,0.0413935617244014,0,82,0,True,False,False,True,False,False,True,False
+7251,0.0,157.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,7251.0,0.0216492002206287,1,74,1,True,False,True,False,True,False,True,False
+2681,1204.7130497,140.0,N,Planning to expand my small business operations. Business is booming right now.,3885.7130497,0.0360201533300242,1,79,0,True,True,False,True,False,True,False,False
+7400,1997.90276041,58.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,9397.90276041,0.0061709330842646,1,80,0,False,False,False,False,True,False,True,False
+150,0.0,400.0,N,Planning to expand my small business operations. Facing some financial stress currently.,150.0,2.6490066225165565,1,88,0,True,True,False,False,False,False,False,False
+1282,0.0,161.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1282.0,0.1254871395167576,1,74,1,True,False,False,False,True,False,False,False
+840,0.0,205.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,840.0,0.2437574316290131,1,77,1,True,True,False,False,True,False,False,False
+150,2054.72827552,338.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,2204.72827552,0.1532373700565254,0,77,1,True,False,False,False,False,True,False,False
+150,154.04402949,289.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,304.04402949,0.9474042172966838,1,74,1,True,False,False,False,False,False,False,False
+780,0.0,185.0,Y,Buying a new car for daily commute. I am very confident in repayment.,780.0,0.2368758002560819,1,69,0,False,True,False,False,True,False,False,False
+150,0.0,600.0,N,Consolidating high-interest debts. Facing some financial stress currently.,150.0,3.9735099337748334,1,74,1,True,False,True,False,True,False,False,False
+2133,0.0,182.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,2133.0,0.0852858481724461,1,74,0,True,False,True,True,False,True,False,False
+617,0.0,457.0,N,Planning to expand my small business operations. Business is booming right now.,617.0,0.7394822006472492,1,79,0,True,False,False,False,True,False,False,False
+2455,0.0,191.0,Y,Buying a new car for daily commute. I am very confident in repayment.,2455.0,0.0777687296416938,1,69,0,False,True,True,False,True,True,False,False
+1060,2038.29377671,231.0,N,Planning to expand my small business operations. Business is booming right now.,3098.29377671,0.0745331087152421,1,79,0,True,False,True,True,False,True,False,False
+150,0.0,144.0,N,Buying a new car for daily commute. Business is booming right now.,150.0,0.9536423841059604,0,66,0,True,False,False,True,False,False,False,False
+240,0.0,251.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,240.0,1.04149377593361,1,77,1,True,False,False,True,False,False,False,False
+12338,3369.73530203,227.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,15707.73530203,0.0144505585991168,1,74,1,True,True,False,False,False,False,False,True
+6806,0.0,138.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,6806.0,0.0202732481269281,1,80,1,False,False,False,False,True,False,True,False
+4968,0.0,386.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,4968.0,0.0776816260817065,1,74,1,True,True,False,False,True,True,False,False
+1271,0.0,244.0,N,Urgent medical expenses covered by loan. Business is booming right now.,1271.0,0.1918238993710692,1,71,1,True,False,False,False,True,False,False,False
+1124,0.0,174.0,Y,Consolidating high-interest debts. Business is booming right now.,1124.0,0.1546666666666666,1,65,1,True,False,False,False,True,False,False,False
+150,0.0,280.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,150.0,1.854304635761589,1,77,1,True,False,False,True,False,False,False,False
+150,0.0,155.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,150.0,1.0264900662251657,1,75,0,True,True,False,True,False,False,False,False
+5638,0.0,164.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,5638.0,0.02908317077496,1,71,1,True,False,False,False,False,False,True,False
+756,0.0,61.0,Y,Consolidating high-interest debts. Business is booming right now.,756.0,0.0805812417437252,1,65,1,True,False,False,False,False,False,False,False
+589,180.22082671,395.0,N,Planning to expand my small business operations. Facing some financial stress currently.,769.22082671,0.5128399366805535,1,88,0,True,False,True,False,False,False,False,False
+4883,0.0,232.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,4883.0,0.0475020475020475,1,80,0,True,False,False,False,False,True,False,False
+1603,178.16877382,244.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1781.16877382,0.1369118366253252,0,71,1,True,False,False,True,False,False,False,False
+150,0.0,233.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,150.0,1.543046357615894,1,72,1,True,False,False,False,False,False,False,False
+150,260.13227189,75.0,Y,Consolidating high-interest debts. Business is booming right now.,410.13227189,0.1824230427235022,1,65,1,False,False,False,True,False,False,False,False
+1374,366.51190413,257.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,1740.51190413,0.1475729217759142,0,77,1,True,False,False,False,True,False,False,False
+3494,75.74554742,193.0,Y,Consolidating high-interest debts. Business is booming right now.,3569.74554742,0.0540503369497862,1,65,1,True,False,True,False,False,True,False,False
+4820,398.65565923,179.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,5218.65565923,0.0342934499296848,1,77,1,True,False,True,False,False,False,True,False
+6184,0.0,74.0,N,Planning to expand my small business operations. Business is booming right now.,6184.0,0.0119644300727566,1,79,0,True,True,True,False,True,False,True,False
+937,0.0,245.0,Y,Planning to expand my small business operations. I am very confident in repayment.,937.0,0.2611940298507462,1,82,0,True,True,False,False,True,False,False,False
+1457,91.90980663,131.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1548.90980663,0.084521047250379,1,74,0,True,False,False,False,False,False,False,False
+1489,1289.91939298,153.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,2778.9193929800003,0.0550375670554922,0,80,0,True,False,True,True,False,True,False,False
+1860,0.0,253.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1860.0,0.1359484148307361,1,77,1,True,True,False,False,True,False,False,False
+6145,3433.27621263,124.0,Y,Planning to expand my small business operations. I am very confident in repayment.,9578.27621263,0.0129446105579991,1,82,0,True,False,False,False,True,False,True,False
+1076,854.47819867,160.0,Y,Buying a new car for daily commute. I am very confident in repayment.,1930.47819867,0.082838108196186,1,69,0,True,False,False,False,False,False,False,False
+150,0.0,144.0,Y,I need to renovate my house immediately. I am very confident in repayment.,150.0,0.9536423841059604,0,74,0,True,True,False,False,True,False,False,False
+3840,0.0,223.0,N,Consolidating high-interest debts. Facing some financial stress currently.,3840.0,0.0580577974485811,1,74,1,True,False,False,False,True,True,False,False
+570,0.0,121.0,Y,Planning to expand my small business operations. I am very confident in repayment.,570.0,0.2119089316987741,1,82,0,False,False,False,False,False,False,False,False
+4877,0.0,244.0,Y,Consolidating high-interest debts. Business is booming right now.,4877.0,0.050020500205002,0,65,1,False,False,False,False,False,True,False,False
+2589,127.26469299,600.0,N,I need to renovate my house immediately. Facing some financial stress currently.,2716.26469299,0.2208102882092716,1,80,0,True,False,False,False,False,True,False,False
+2839,78.62089558,274.0,N,Consolidating high-interest debts. I might struggle slightly initially.,2917.62089558,0.0938799555690666,1,71,1,False,True,False,False,False,True,False,False
+3684,1210.18472533,193.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,4894.18472533,0.0394264998829005,0,71,1,True,False,False,False,True,True,False,False
+4198,63.58154011,172.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,4261.58154011,0.0403511342555012,1,72,1,True,False,True,False,True,True,False,False
+2906,0.0,109.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,2906.0,0.0374957000343997,1,74,1,True,False,True,True,False,True,False,False
+7736,0.0,108.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,7736.0,0.0139588987979837,1,88,0,True,False,False,False,True,False,True,False
+5162,1961.42743183,90.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,7123.42743183,0.0126325941082513,0,74,1,False,False,False,False,True,False,True,False
+2699,0.0,189.0,N,Investment in a new startup opportunity. I am very confident in repayment.,2699.0,0.07,1,74,0,True,False,False,False,False,True,False,False
+150,0.0,241.0,N,I need to renovate my house immediately. I might struggle slightly initially.,150.0,1.596026490066225,1,77,1,True,False,False,False,True,False,False,False
+1289,0.0,224.0,Y,Buying a new car for daily commute. I am very confident in repayment.,1289.0,0.1736434108527131,1,69,0,True,False,False,True,False,False,False,False
+4411,0.0,184.0,N,Buying a new car for daily commute. Facing some financial stress currently.,4411.0,0.041704442429737,1,75,0,False,False,False,False,False,True,False,False
+1080,0.0,51.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,1080.0,0.0471785383903792,1,80,1,True,False,False,False,True,False,False,False
+2153,4840.4239267,243.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,6993.4239267,0.0347419605312153,0,77,1,True,False,False,False,False,False,True,False
+150,0.0,95.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,150.0,0.6291390728476821,1,71,1,False,False,False,False,True,False,False,False
+308,1306.2539704,258.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,1614.2539704,0.1597272037264264,1,77,1,True,False,False,False,True,False,False,False
+6747,1735.21722089,44.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,8482.21722089,0.0051867114626806,1,74,1,True,False,False,False,False,False,True,False
+425,475.32326582,169.0,Y,Consolidating high-interest debts. Business is booming right now.,900.32326582,0.1875020943193431,1,65,1,True,False,False,False,True,False,False,False
+1985,0.0,338.0,Y,I need to renovate my house immediately. Business is booming right now.,1985.0,0.1701913393756294,1,71,0,False,False,True,True,False,False,False,False
+5004,64.01491672,172.0,N,I need to renovate my house immediately. I am very confident in repayment.,5068.01491672,0.033931642109133,1,74,0,True,True,True,True,False,False,True,False
+3380,93.21007535,141.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3473.21007535,0.0405847651529233,1,69,0,True,False,False,False,True,True,False,False
+4301,0.0,512.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,4301.0,0.1190144119014411,1,80,0,True,True,False,False,True,True,False,False
+4131,0.0,195.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,4131.0,0.0471926427879961,0,74,1,True,False,False,True,False,True,False,False
+150,189.1729266,232.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,339.1729266,0.6820060676751105,0,71,1,True,False,False,False,True,False,False,False
+5599,0.0,145.0,Y,Planning to expand my small business operations. I am very confident in repayment.,5599.0,0.0258928571428571,1,82,0,True,False,False,False,True,False,True,False
+150,13.8435824,246.0,Y,Investment in a new startup opportunity. Business is booming right now.,163.8435824,1.4923237921575283,1,71,0,False,False,False,False,False,False,False,False
+587,0.0,184.0,N,Investment in a new startup opportunity. Business is booming right now.,587.0,0.3129251700680272,1,71,0,True,False,True,False,True,False,False,False
+150,367.59334935,363.0,Y,Buying a new car for daily commute. Business is booming right now.,517.5933493499999,0.699970411219081,1,66,0,True,False,True,False,False,False,False,False
+1043,47.65409864,162.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1090.65409864,0.1483986550335148,1,77,1,True,False,False,True,False,False,False,False
+150,0.0,221.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,150.0,1.4635761589403973,1,71,1,True,True,False,False,True,False,False,False
+1378,0.0,150.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,1378.0,0.1087744742567077,0,80,1,True,False,False,False,True,False,False,False
+677,3628.59674879,149.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,4305.59674879,0.0345980849128406,0,85,1,True,False,False,True,False,True,False,False
+7033,0.0,105.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,7033.0,0.0149274950241683,1,77,1,True,True,False,True,False,False,True,False
+150,1130.46908698,203.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1280.46908698,0.1584119367860867,1,77,1,False,False,False,False,True,False,False,False
+4460,0.0,231.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,4460.0,0.0517821116341627,1,77,1,True,False,False,False,False,True,False,False
+2040,716.35238307,178.0,Y,Buying a new car for daily commute. I might struggle slightly initially.,2756.35238307,0.0645546797329607,1,72,1,True,False,False,False,False,True,False,False
+150,102.6795615,158.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,252.6795615,0.6228329908241347,1,77,1,False,False,False,False,True,False,False,False
+4372,136.89885566,57.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,4508.89885566,0.0126388643790678,1,77,1,True,False,False,False,False,True,False,False
+2296,0.0,59.0,Y,Consolidating high-interest debts. I am very confident in repayment.,2296.0,0.0256856769699608,1,68,1,True,False,False,True,False,True,False,False
+150,0.0,210.0,Y,Planning to expand my small business operations. Business is booming right now.,150.0,1.390728476821192,1,79,0,True,False,False,False,True,False,False,False
+3977,1380.82426644,247.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,5357.82426644,0.0460922000273183,1,75,0,True,False,False,True,False,False,True,False
+150,0.0,115.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,150.0,0.7615894039735099,1,74,0,True,False,False,False,True,False,False,False
+3206,0.0,180.0,Y,I need to renovate my house immediately. I am very confident in repayment.,3206.0,0.0561272217025257,1,74,0,True,False,False,False,False,True,False,False
+150,0.0,196.0,N,I need to renovate my house immediately. Business is booming right now.,150.0,1.2980132450331126,1,71,0,True,False,False,False,False,False,False,False
+3189,0.0,258.0,Y,Investment in a new startup opportunity. Business is booming right now.,3189.0,0.0808777429467084,1,71,0,False,False,False,True,False,True,False,False
+787,124.92117802,216.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,911.92117802,0.2366031210585717,0,80,0,True,False,True,True,False,False,False,False
+150,0.0,130.0,N,I need to renovate my house immediately. Business is booming right now.,150.0,0.8609271523178808,1,71,0,True,False,False,False,False,False,False,False
+2459,9910.54873292,166.0,N,Planning to expand my small business operations. Business is booming right now.,12369.54873292,0.0134189681948584,1,79,0,True,True,False,True,False,False,False,True
+4280,0.0,185.0,N,Buying a new car for daily commute. Facing some financial stress currently.,4280.0,0.0432142022891847,0,75,0,False,False,False,False,True,True,False,False
+2027,0.0,600.0,Y,I need to renovate my house immediately. Business is booming right now.,2027.0,0.2958579881656805,0,71,0,True,True,False,False,False,True,False,False
+977,0.0,369.0,N,Buying a new car for daily commute. I am very confident in repayment.,977.0,0.3773006134969325,1,69,0,True,False,False,False,True,False,False,False
+2790,107.00361514,161.0,Y,Buying a new car for daily commute. I am very confident in repayment.,2897.00361514,0.055555486252291,1,69,0,True,False,False,False,True,True,False,False
+6952,1831.59050211,94.0,Y,I need to renovate my house immediately. I am very confident in repayment.,8783.59050211,0.0107005557034698,1,74,0,True,True,False,True,False,False,True,False
+5583,140.5609074,195.0,Y,Buying a new car for daily commute. Business is booming right now.,5723.5609074,0.0340637479719934,0,66,0,True,True,False,True,False,False,True,False
+150,0.0,182.0,Y,Buying a new car for daily commute. I am very confident in repayment.,150.0,1.205298013245033,0,69,0,True,False,False,False,False,False,False,False
+1742,0.0,34.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,1742.0,0.0195065978198508,1,74,1,False,True,False,True,False,False,False,False
+242,142.04258796,490.0,Y,Consolidating high-interest debts. Business is booming right now.,384.04258796,1.2725865016544702,1,65,1,True,False,False,False,True,False,False,False
+150,0.0,116.0,N,Planning to expand my small business operations. Business is booming right now.,150.0,0.7682119205298014,0,79,0,True,True,False,True,False,False,False,False
+295,0.0,368.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,295.0,1.2432432432432432,1,74,1,True,False,False,True,False,False,False,False
+2219,0.0,296.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,2219.0,0.1333333333333333,1,77,1,True,True,False,False,False,True,False,False
+12981,0.0,187.0,Y,I need to renovate my house immediately. I am very confident in repayment.,12981.0,0.0144045601602218,0,74,0,True,True,False,True,False,False,False,True
+313,573.39750664,233.0,N,Investment in a new startup opportunity. Business is booming right now.,886.39750664,0.2625655337732694,1,71,0,True,False,False,False,True,False,False,False
+2394,0.0,120.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,2394.0,0.0501043841336116,1,71,1,True,False,True,True,False,True,False,False
+1451,0.0,298.0,N,Buying a new car for daily commute. Business is booming right now.,1451.0,0.2052341597796143,1,66,0,True,False,False,False,False,False,False,False
+593,0.0,198.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,593.0,0.3333333333333333,1,77,1,True,False,False,False,True,False,False,False
+3175,364.89829041,96.0,N,Planning to expand my small business operations. I am very confident in repayment.,3539.89829041,0.027111764339575,1,82,0,True,False,False,False,True,True,False,False
+584,0.0,42.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,584.0,0.0717948717948717,1,74,0,True,False,False,True,False,False,False,False
+800,0.0,241.0,N,Buying a new car for daily commute. Facing some financial stress currently.,800.0,0.3008739076154806,1,75,0,True,False,True,True,False,False,False,False
+3951,0.0,257.0,N,I need to renovate my house immediately. I might struggle slightly initially.,3951.0,0.0650303643724696,1,77,1,True,True,False,True,False,True,False,False
+3743,0.0,162.0,Y,Consolidating high-interest debts. I am very confident in repayment.,3743.0,0.0432692307692307,1,68,1,False,True,True,False,True,True,False,False
+1700,0.0,249.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,1700.0,0.146384479717813,1,71,1,False,False,False,False,True,False,False,False
+1538,0.0,198.0,Y,Planning to expand my small business operations. Business is booming right now.,1538.0,0.1286549707602339,1,79,0,True,True,True,False,False,False,False,False
+150,0.0,82.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,150.0,0.543046357615894,1,74,1,True,False,False,True,False,False,False,False
+7857,0.0,9.0,Y,Planning to expand my small business operations. I am very confident in repayment.,7857.0,0.0011453296004072,1,82,0,True,False,False,False,True,False,True,False
+150,0.0,224.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,150.0,1.4834437086092715,1,77,1,True,True,False,False,True,False,False,False
+15302,0.0,217.0,N,Buying a new car for daily commute. I am very confident in repayment.,15302.0,0.0141802260994576,1,69,0,True,False,False,False,True,False,False,True
+7373,0.0,118.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,7373.0,0.0160021697857336,1,80,0,True,True,True,False,True,False,True,False
+979,0.0,221.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,979.0,0.2255102040816326,1,71,1,True,True,False,False,True,False,False,False
+5705,0.0,221.0,N,Investment in a new startup opportunity. I am very confident in repayment.,5705.0,0.0387311601822642,1,74,0,False,True,False,False,False,False,True,False
+791,0.0,115.0,N,Investment in a new startup opportunity. I am very confident in repayment.,791.0,0.1452020202020202,1,74,0,True,False,False,True,False,False,False,False
+150,0.0,396.0,N,Consolidating high-interest debts. I am very confident in repayment.,150.0,2.622516556291391,1,68,1,False,True,False,True,False,False,False,False
+189,0.0,171.0,N,Buying a new car for daily commute. I am very confident in repayment.,189.0,0.9,1,69,0,True,False,False,True,False,False,False,False
+3703,140.29829137,173.0,Y,Consolidating high-interest debts. Business is booming right now.,3843.29829137,0.0450017108163445,1,65,1,True,False,True,True,False,True,False,False
+3273,0.0,112.0,Y,Investment in a new startup opportunity. Facing some financial stress currently.,3273.0,0.0342089187538179,1,80,0,True,False,False,False,False,True,False,False
+3543,920.3818839,18.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,4463.3818839,0.0040319131445528,1,80,1,True,False,False,True,False,True,False,False
+9083,0.0,222.0,Y,Buying a new car for daily commute. I am very confident in repayment.,9083.0,0.0244385733157199,0,69,0,True,False,False,False,False,False,True,False
+262,2897.30448178,331.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3159.30448178,0.1047367435347775,1,69,0,False,False,True,False,False,True,False,False
+678,0.0,167.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,678.0,0.2459499263622974,0,77,1,True,False,False,True,False,False,False,False
+5148,39.01763188,173.0,N,Buying a new car for daily commute. Facing some financial stress currently.,5187.01763188,0.0333460701707965,1,75,0,True,True,False,False,False,False,True,False
+150,1115.2954237,131.0,Y,Investment in a new startup opportunity. I might struggle slightly initially.,1265.2954237,0.1034513728378089,0,77,1,True,False,False,False,True,False,False,False
+12084,74.7537935,402.0,Y,Consolidating high-interest debts. I am very confident in repayment.,12158.7537935,0.0330598798978059,1,68,1,True,True,False,True,False,False,False,True
+150,61.72917849,40.0,Y,Buying a new car for daily commute. Facing some financial stress currently.,211.72917849,0.1880325035048275,1,75,0,True,False,True,False,False,False,False,False
+2967,0.0,250.0,Y,I need to renovate my house immediately. I might struggle slightly initially.,2967.0,0.0842318059299191,1,77,1,True,False,False,True,False,True,False,False
+4174,1024.38204048,155.0,N,Consolidating high-interest debts. I might struggle slightly initially.,5198.38204048,0.0298112350262475,1,71,1,True,False,False,False,False,False,True,False
+1292,1242.79029444,232.0,N,I need to renovate my house immediately. Facing some financial stress currently.,2534.7902944400003,0.0914902153023795,1,80,0,True,False,False,True,False,True,False,False
+1551,0.0,177.0,Y,Planning to expand my small business operations. Business is booming right now.,1551.0,0.1140463917525773,1,79,0,True,False,False,True,False,False,False,False
+3496,1075.37463004,133.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,4571.37463004,0.0290877302848731,1,77,1,True,False,False,True,False,True,False,False
+1076,0.0,175.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,1076.0,0.1624883936861652,1,74,1,True,True,True,False,True,False,False,False
+1181,619.17626466,255.0,N,Consolidating high-interest debts. I am very confident in repayment.,1800.17626466,0.1415741507387314,1,68,1,True,True,True,True,False,False,False,False
+150,0.0,184.0,Y,I need to renovate my house immediately. Business is booming right now.,150.0,1.218543046357616,0,71,0,True,False,False,False,True,False,False,False
+9027,0.0,55.0,Y,Consolidating high-interest debts. Business is booming right now.,9027.0,0.0060921577315019,1,65,1,False,False,True,False,False,False,True,False
+14777,1802.2108262,190.0,N,Planning to expand my small business operations. I am very confident in repayment.,16579.2108262,0.0114594441525292,1,82,0,True,False,True,True,False,False,False,True
+150,0.0,171.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,150.0,1.1324503311258278,1,71,1,True,True,False,True,False,False,False,False
+867,0.0,166.0,N,Buying a new car for daily commute. Facing some financial stress currently.,867.0,0.1912442396313364,1,75,0,True,False,False,True,False,False,False,False
+629,0.0,107.0,Y,I need to renovate my house immediately. Facing some financial stress currently.,629.0,0.1698412698412698,0,80,0,True,False,False,False,False,False,False,False
+150,0.0,100.0,N,I need to renovate my house immediately. I am very confident in repayment.,150.0,0.6622516556291391,1,74,0,True,False,False,False,True,False,False,False
+385,85.0452424,147.0,Y,Consolidating high-interest debts. Business is booming right now.,470.0452424,0.31207193443039,1,65,1,False,True,False,False,False,False,False,False
+3402,629.64324954,78.0,Y,Urgent medical expenses covered by loan. Business is booming right now.,4031.64324954,0.0193421523237636,1,71,1,True,False,False,False,False,True,False,False
+2029,0.0,81.0,N,Buying a new car for daily commute. I am very confident in repayment.,2029.0,0.0399014778325123,1,69,0,False,False,True,False,False,True,False,False
+338,0.0,171.0,N,Urgent medical expenses covered by loan. Facing some financial stress currently.,338.0,0.504424778761062,1,80,1,True,True,False,False,False,False,False,False
+1889,3384.81900576,9.0,N,Consolidating high-interest debts. I might struggle slightly initially.,5273.81900576,0.0017062196807458,1,71,1,False,False,False,False,False,False,True,False
+150,0.0,124.0,Y,Buying a new car for daily commute. Business is booming right now.,150.0,0.8211920529801324,1,66,0,True,False,False,False,False,False,False,False
+150,152.9678448,164.0,N,Consolidating high-interest debts. I am very confident in repayment.,302.9678448,0.539530752365949,1,68,1,False,False,False,False,False,False,False,False
+547,0.0,210.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,547.0,0.3832116788321167,1,71,1,False,False,True,False,True,False,False,False
+463,0.0,247.0,Y,Consolidating high-interest debts. Business is booming right now.,463.0,0.5323275862068966,1,65,1,False,False,False,True,False,False,False,False
+4600,313.02269865,169.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,4913.02269865,0.034391375531584,1,80,1,True,False,False,False,False,True,False,False
+1651,6600.66884325,197.0,Y,Planning to expand my small business operations. I am very confident in repayment.,8251.66884325,0.0238710656809075,1,82,0,True,False,False,False,False,False,True,False
+980,0.0,212.0,N,Planning to expand my small business operations. Business is booming right now.,980.0,0.2161060142711519,1,79,0,True,False,False,False,True,False,False,False
+184,0.0,174.0,N,Consolidating high-interest debts. Business is booming right now.,184.0,0.9405405405405406,1,65,1,True,False,True,False,True,False,False,False
+2537,274.93630267,63.0,N,Investment in a new startup opportunity. Business is booming right now.,2811.93630267,0.0223965256306021,1,71,0,True,False,False,True,False,True,False,False
+1006,0.0,263.0,N,I need to renovate my house immediately. I am very confident in repayment.,1006.0,0.2611717974180735,0,74,0,True,False,False,False,True,False,False,False
+150,159.63563935,226.0,N,Investment in a new startup opportunity. I am very confident in repayment.,309.63563935,0.727540473053579,0,74,0,True,True,True,True,False,False,False,False
+150,0.0,192.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,150.0,1.271523178807947,1,85,1,True,True,False,False,False,False,False,False
+2997,0.0,362.0,N,Buying a new car for daily commute. Facing some financial stress currently.,2997.0,0.1207471647765176,1,75,0,False,False,False,False,False,True,False,False
+11714,739.12241603,87.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,12453.12241603,0.0069856387382237,1,74,1,True,True,False,False,True,False,False,True
+3260,0.0,103.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,3260.0,0.0315854032505366,1,80,0,True,True,False,False,False,True,False,False
+928,0.0,87.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,928.0,0.0936490850376749,1,77,1,True,False,False,False,True,False,False,False
+6762,341.08143576,376.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,7103.08143576,0.0529273212026144,0,71,1,False,False,False,False,False,False,True,False
+1265,0.0,176.0,Y,Planning to expand my small business operations. I might struggle slightly initially.,1265.0,0.1390205371248025,1,85,1,True,False,True,False,True,False,False,False
+946,0.0,381.0,Y,Buying a new car for daily commute. I am very confident in repayment.,946.0,0.4023231256599788,0,69,0,True,False,False,False,True,False,False,False
+150,0.0,75.0,Y,Consolidating high-interest debts. I might struggle slightly initially.,150.0,0.4966887417218543,1,71,1,True,False,False,False,True,False,False,False
+14544,0.0,101.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,14544.0,0.0069439669989687,1,74,1,False,False,False,False,True,False,False,True
+7598,0.0,9.0,Y,Buying a new car for daily commute. Business is booming right now.,7598.0,0.0011843663639952,1,66,0,True,False,False,True,False,False,True,False
+730,505.52720495,122.0,N,Buying a new car for daily commute. Business is booming right now.,1235.52720495,0.098663417603443,0,66,0,True,False,False,True,False,False,False,False
+150,0.0,130.0,Y,Planning to expand my small business operations. Business is booming right now.,150.0,0.8609271523178808,1,79,0,True,True,False,False,False,False,False,False
+3457,0.0,247.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,3457.0,0.0714285714285714,1,80,1,True,False,False,False,True,True,False,False
+1907,5773.56694616,101.0,Y,Investment in a new startup opportunity. Business is booming right now.,7680.56694616,0.0131483590142359,1,71,0,True,False,False,False,False,False,True,False
+1331,0.0,191.0,N,Investment in a new startup opportunity. Facing some financial stress currently.,1331.0,0.1433933933933933,0,80,0,False,False,False,True,False,False,False,False
+1253,0.0,173.0,Y,Urgent medical expenses covered by loan. Facing some financial stress currently.,1253.0,0.1379585326953748,1,80,1,True,True,True,False,False,False,False,False
+150,0.0,225.0,N,Urgent medical expenses covered by loan. Business is booming right now.,150.0,1.490066225165563,1,71,1,True,False,False,False,True,False,False,False
+2209,0.0,230.0,Y,Consolidating high-interest debts. Facing some financial stress currently.,2209.0,0.1040723981900452,1,74,1,False,True,False,False,True,True,False,False
+2840,179.69156332,136.0,N,I need to renovate my house immediately. I might struggle slightly initially.,3019.69156332,0.0450228026096528,1,77,1,True,False,False,False,False,True,False,False
+2829,0.0,154.0,N,Planning to expand my small business operations. I am very confident in repayment.,2829.0,0.054416961130742,0,82,0,True,False,False,False,False,True,False,False
+3446,0.0,115.0,Y,Planning to expand my small business operations. I am very confident in repayment.,3446.0,0.0333623440673049,1,82,0,True,True,False,False,True,True,False,False
+150,0.0,215.0,N,Investment in a new startup opportunity. I am very confident in repayment.,150.0,1.423841059602649,1,74,0,False,True,False,True,False,False,False,False
+2079,201.84028168,160.0,N,Urgent medical expenses covered by loan. I am very confident in repayment.,2280.84028168,0.070118842797446,1,74,1,True,True,False,True,False,True,False,False
+3242,0.0,130.0,Y,Buying a new car for daily commute. I am very confident in repayment.,3242.0,0.0400863398088189,0,69,0,False,False,False,False,False,True,False,False
+150,0.0,444.0,Y,I need to renovate my house immediately. Business is booming right now.,150.0,2.9403973509933774,1,71,0,True,True,False,True,False,False,False,False
+150,368.50848456,184.0,N,Consolidating high-interest debts. Facing some financial stress currently.,518.5084845599999,0.3541809334564374,1,74,1,True,False,False,False,False,False,False,False
+4198,0.0,278.0,Y,Urgent medical expenses covered by loan. I am very confident in repayment.,4198.0,0.0662062395808525,0,74,1,True,False,True,False,False,True,False,False
+150,4021.87498851,221.0,Y,Urgent medical expenses covered by loan. I might struggle slightly initially.,4171.874988510001,0.0529610881247396,0,77,1,True,False,False,True,False,True,False,False
+1596,0.0,170.0,Y,I need to renovate my house immediately. I am very confident in repayment.,1596.0,0.1064495929868503,1,74,0,True,False,False,False,True,False,False,False
+5538,0.0,149.0,N,Investment in a new startup opportunity. I might struggle slightly initially.,5538.0,0.0269001624842029,0,77,1,True,False,False,False,False,False,True,False
+8756,0.0,99.0,N,Buying a new car for daily commute. I am very confident in repayment.,8756.0,0.0113052415210688,0,69,0,False,True,False,False,True,False,True,False
+1192,0.0,9.0,Y,Investment in a new startup opportunity. I am very confident in repayment.,1192.0,0.0075440067057837,1,74,0,True,False,False,False,True,False,False,False
+3383,2463.24774938,178.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,5846.24774938,0.0304416723267581,1,88,0,False,True,True,True,False,False,True,False
+150,3678.67065477,148.0,Y,I need to renovate my house immediately. Business is booming right now.,3828.67065477,0.0386456208226836,1,71,0,True,False,False,False,True,True,False,False
+150,0.0,66.0,Y,Investment in a new startup opportunity. Business is booming right now.,150.0,0.4370860927152318,1,71,0,False,False,False,True,False,False,False,False
+3708,0.0,120.0,N,Urgent medical expenses covered by loan. I might struggle slightly initially.,3708.0,0.0323537341601509,1,77,1,True,True,False,False,False,True,False,False
+1354,0.0,234.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,1354.0,0.1726937269372693,1,88,0,True,False,False,False,True,False,False,False
+2533,0.0,158.0,Y,Planning to expand my small business operations. Facing some financial stress currently.,2533.0,0.0623520126282557,0,88,0,True,False,False,False,True,True,False,False
+262,0.0,97.0,Y,Buying a new car for daily commute. Business is booming right now.,262.0,0.3688212927756654,1,66,0,True,False,False,False,True,False,False,False
